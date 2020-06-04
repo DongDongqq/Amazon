@@ -1,0 +1,46 @@
+2020-05-15 10:28:01,583 INFO log.py[ln:15] 接到任务
+2020-05-15 10:28:01,584 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/levaca-Womens-Pullover-Sweatshirts-Leggings/dp/B07XNWKYYK/ref=redir_mobile_desktop?ie=UTF8&aaxitk=OONmzBprpSjiMfm8YFPamA&hsa_cr_id=4684245910101&ref_=sb_s_sparkle', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-05-15 10:28:01,584 INFO log.py[ln:15] 开始处理 
+2020-05-15 10:28:07,861 INFO log.py[ln:15] 返回正确结果
+2020-05-15 10:28:07,947 INFO log.py[ln:15] 插入数据成功
+2020-05-15 10:28:47,013 INFO log.py[ln:15] 接到任务
+2020-05-15 10:28:47,014 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Ecovacs-DEEBOT-OZMO-Aspiradora-rob%C3%B3tica/dp/B07TL6CTLZ/ref=sr_1_27_sspa?dchild=1&keywords=iRobot&qid=1589383063&sr=8-27-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzMzhRUDVBWkhSUDhCJmVuY3J5cHRlZElkPUEwMTI2MjU4MkFZUjRZQklQNzFDQiZlbmNyeXB0ZWRBZElkPUEwMDY2MDA3SlBDTzBYOEI1MDA4JndpZGdldE5hbWU9c3BfbXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-05-15 10:28:47,014 INFO log.py[ln:15] 开始处理 
+2020-05-15 10:28:49,969 INFO log.py[ln:15] 返回正确结果
+2020-05-15 10:28:50,091 INFO log.py[ln:15] 插入数据成功
+2020-05-15 10:44:01,562 INFO log.py[ln:15] 接到任务
+2020-05-15 10:44:01,562 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Ecovacs-DEEBOT-OZMO-Aspiradora-rob%C3%B3tica/dp/B07TL6CTLZ/ref=sr_1_27_sspa?dchild=1&keywords=iRobot&qid=1589383063&sr=8-27-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzMzhRUDVBWkhSUDhCJmVuY3J5cHRlZElkPUEwMTI2MjU4MkFZUjRZQklQNzFDQiZlbmNyeXB0ZWRBZElkPUEwMDY2MDA3SlBDTzBYOEI1MDA4JndpZGdldE5hbWU9c3BfbXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-05-15 10:44:01,562 INFO log.py[ln:15] 开始处理 
+2020-05-15 10:44:04,579 INFO log.py[ln:15] 返回正确结果
+2020-05-15 10:44:04,679 INFO log.py[ln:15] 插入数据成功
+2020-05-15 10:44:14,523 INFO log.py[ln:15] 接到任务
+2020-05-15 10:44:14,524 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Ecovacs-DEEBOT-OZMO-Aspiradora-rob%C3%B3tica/dp/B07TL6CTLZ/ref=sr_1_27_sspa?dchild=1&keywords=iRobot&qid=1589383063&sr=8-27-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzMzhRUDVBWkhSUDhCJmVuY3J5cHRlZElkPUEwMTI2MjU4MkFZUjRZQklQNzFDQiZlbmNyeXB0ZWRBZElkPUEwMDY2MDA3SlBDTzBYOEI1MDA4JndpZGdldE5hbWU9c3BfbXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-05-15 10:44:14,524 INFO log.py[ln:15] 开始处理 
+2020-05-15 10:44:16,577 INFO log.py[ln:15] 返回正确结果
+2020-05-15 10:44:16,677 INFO log.py[ln:15] 插入数据成功
+2020-05-15 10:44:25,821 INFO log.py[ln:15] 接到任务
+2020-05-15 10:44:25,821 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Ecovacs-DEEBOT-OZMO-Aspiradora-rob%C3%B3tica/dp/B07TL6CTLZ/ref=sr_1_27_sspa?dchild=1&keywords=iRobot&qid=1589383063&sr=8-27-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzMzhRUDVBWkhSUDhCJmVuY3J5cHRlZElkPUEwMTI2MjU4MkFZUjRZQklQNzFDQiZlbmNyeXB0ZWRBZElkPUEwMDY2MDA3SlBDTzBYOEI1MDA4JndpZGdldE5hbWU9c3BfbXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-05-15 10:44:25,821 INFO log.py[ln:15] 开始处理 
+2020-05-15 10:44:28,427 INFO log.py[ln:15] 返回正确结果
+2020-05-15 10:44:28,491 INFO log.py[ln:15] 插入数据成功
+2020-05-15 10:44:57,574 INFO log.py[ln:15] 接到任务
+2020-05-15 10:44:57,574 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Ecovacs-DEEBOT-OZMO-Aspiradora-rob%C3%B3tica/dp/B07TL6CTLZ/ref=sr_1_27_sspa?dchild=1&keywords=iRobot&qid=1589383063&sr=8-27-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzMzhRUDVBWkhSUDhCJmVuY3J5cHRlZElkPUEwMTI2MjU4MkFZUjRZQklQNzFDQiZlbmNyeXB0ZWRBZElkPUEwMDY2MDA3SlBDTzBYOEI1MDA4JndpZGdldE5hbWU9c3BfbXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-05-15 10:44:57,575 INFO log.py[ln:15] 开始处理 
+2020-05-15 10:44:59,773 INFO log.py[ln:15] 返回正确结果
+2020-05-15 10:45:06,893 INFO log.py[ln:15] 插入数据成功
+2020-05-15 11:08:50,651 INFO log.py[ln:15] 接到任务
+2020-05-15 11:08:50,652 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Ecovacs-DEEBOT-OZMO-Aspiradora-rob%C3%B3tica/dp/B07TL6CTLZ/ref=sr_1_27_sspa?dchild=1&keywords=iRobot&qid=1589383063&sr=8-27-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzMzhRUDVBWkhSUDhCJmVuY3J5cHRlZElkPUEwMTI2MjU4MkFZUjRZQklQNzFDQiZlbmNyeXB0ZWRBZElkPUEwMDY2MDA3SlBDTzBYOEI1MDA4JndpZGdldE5hbWU9c3BfbXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-05-15 11:08:50,652 INFO log.py[ln:15] 开始处理 
+2020-05-15 11:08:58,832 INFO log.py[ln:15] 接到任务
+2020-05-15 11:08:58,833 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Ecovacs-DEEBOT-OZMO-Aspiradora-rob%C3%B3tica/dp/B07TL6CTLZ/ref=sr_1_27_sspa?dchild=1&keywords=iRobot&qid=1589383063&sr=8-27-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzMzhRUDVBWkhSUDhCJmVuY3J5cHRlZElkPUEwMTI2MjU4MkFZUjRZQklQNzFDQiZlbmNyeXB0ZWRBZElkPUEwMDY2MDA3SlBDTzBYOEI1MDA4JndpZGdldE5hbWU9c3BfbXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-05-15 11:08:58,833 INFO log.py[ln:15] 开始处理 
+2020-05-15 11:09:05,720 INFO log.py[ln:15] 返回正确结果
+2020-05-15 11:09:05,848 INFO log.py[ln:15] 插入数据成功
+2020-05-15 11:10:32,919 INFO log.py[ln:15] 接到任务
+2020-05-15 11:10:32,920 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Ecovacs-DEEBOT-OZMO-Aspiradora-rob%C3%B3tica/dp/B07TL6CTLZ/ref=sr_1_27_sspa?dchild=1&keywords=iRobot&qid=1589383063&sr=8-27-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzMzhRUDVBWkhSUDhCJmVuY3J5cHRlZElkPUEwMTI2MjU4MkFZUjRZQklQNzFDQiZlbmNyeXB0ZWRBZElkPUEwMDY2MDA3SlBDTzBYOEI1MDA4JndpZGdldE5hbWU9c3BfbXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-05-15 11:10:32,920 INFO log.py[ln:15] 开始处理 
+2020-05-15 11:10:44,113 INFO log.py[ln:15] 接到任务
+2020-05-15 11:10:44,113 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Ecovacs-DEEBOT-OZMO-Aspiradora-rob%C3%B3tica/dp/B07TL6CTLZ/ref=sr_1_27_sspa?dchild=1&keywords=iRobot&qid=1589383063&sr=8-27-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzMzhRUDVBWkhSUDhCJmVuY3J5cHRlZElkPUEwMTI2MjU4MkFZUjRZQklQNzFDQiZlbmNyeXB0ZWRBZElkPUEwMDY2MDA3SlBDTzBYOEI1MDA4JndpZGdldE5hbWU9c3BfbXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-05-15 11:10:44,113 INFO log.py[ln:15] 开始处理 
+2020-05-15 11:10:49,015 INFO log.py[ln:15] 返回正确结果
+2020-05-15 11:10:49,133 INFO log.py[ln:15] 插入数据成功

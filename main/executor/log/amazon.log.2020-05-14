@@ -1,0 +1,78 @@
+2020-05-14 15:27:29,051 INFO log.py[ln:15] 接到任务
+2020-05-14 15:27:29,054 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/levaca-Womens-Pullover-Sweatshirts-Leggings/dp/B07XNWKYYK/ref=redir_mobile_desktop?ie=UTF8&aaxitk=OONmzBprpSjiMfm8YFPamA&hsa_cr_id=4684245910101&ref_=sb_s_sparkle', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-05-14 15:27:29,054 INFO log.py[ln:15] 开始处理 
+2020-05-14 15:27:29,055 INFO log.py[ln:15] 开始处理 
+2020-05-14 15:27:29,055 INFO log.py[ln:15] 开始处理 
+2020-05-14 15:27:29,055 INFO log.py[ln:15] 返回正确结果
+2020-05-14 15:28:36,012 INFO log.py[ln:15] 接到任务
+2020-05-14 15:28:36,012 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/levaca-Womens-Pullover-Sweatshirts-Leggings/dp/B07XNWKYYK/ref=redir_mobile_desktop?ie=UTF8&aaxitk=OONmzBprpSjiMfm8YFPamA&hsa_cr_id=4684245910101&ref_=sb_s_sparkle', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-05-14 15:28:36,012 INFO log.py[ln:15] 开始处理 
+2020-05-14 15:28:36,013 INFO log.py[ln:15] 开始处理 
+2020-05-14 15:28:36,013 INFO log.py[ln:15] 开始处理 
+2020-05-14 15:28:36,013 INFO log.py[ln:15] 返回正确结果
+2020-05-14 15:29:27,100 INFO log.py[ln:15] 接到任务
+2020-05-14 15:29:27,101 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/levaca-Womens-Pullover-Sweatshirts-Leggings/dp/B07XNWKYYK/ref=redir_mobile_desktop?ie=UTF8&aaxitk=OONmzBprpSjiMfm8YFPamA&hsa_cr_id=4684245910101&ref_=sb_s_sparkle', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-05-14 15:29:27,101 INFO log.py[ln:15] 开始处理 
+2020-05-14 15:29:27,102 INFO log.py[ln:15] 开始处理 
+2020-05-14 15:29:27,102 INFO log.py[ln:15] 开始处理 
+2020-05-14 15:29:27,102 INFO log.py[ln:15] 返回正确结果
+2020-05-14 15:31:22,295 INFO log.py[ln:15] 接到任务
+2020-05-14 15:31:22,295 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/levaca-Womens-Pullover-Sweatshirts-Leggings/dp/B07XNWKYYK/ref=redir_mobile_desktop?ie=UTF8&aaxitk=OONmzBprpSjiMfm8YFPamA&hsa_cr_id=4684245910101&ref_=sb_s_sparkle', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-05-14 15:31:22,296 INFO log.py[ln:15] 开始处理 
+2020-05-14 15:31:22,296 INFO log.py[ln:15] 开始处理 
+2020-05-14 15:31:22,298 INFO log.py[ln:15] 开始处理 
+2020-05-14 15:31:22,298 INFO log.py[ln:15] 返回正确结果
+2020-05-14 15:32:16,626 INFO log.py[ln:15] 接到任务
+2020-05-14 15:32:16,626 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/levaca-Womens-Pullover-Sweatshirts-Leggings/dp/B07XNWKYYK/ref=redir_mobile_desktop?ie=UTF8&aaxitk=OONmzBprpSjiMfm8YFPamA&hsa_cr_id=4684245910101&ref_=sb_s_sparkle', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-05-14 15:32:16,627 INFO log.py[ln:15] 开始处理 
+2020-05-14 15:32:16,627 INFO log.py[ln:15] 开始处理 
+2020-05-14 15:32:16,627 INFO log.py[ln:15] 开始处理 
+2020-05-14 15:32:16,628 INFO log.py[ln:15] 返回正确结果
+2020-05-14 15:34:16,843 INFO log.py[ln:15] 接到任务
+2020-05-14 15:34:16,844 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/levaca-Womens-Pullover-Sweatshirts-Leggings/dp/B07XNWKYYK/ref=redir_mobile_desktop?ie=UTF8&aaxitk=OONmzBprpSjiMfm8YFPamA&hsa_cr_id=4684245910101&ref_=sb_s_sparkle', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-05-14 15:34:16,844 INFO log.py[ln:15] 开始处理 
+2020-05-14 15:34:16,844 INFO log.py[ln:15] 开始处理 
+2020-05-14 15:34:16,845 INFO log.py[ln:15] 开始处理 
+2020-05-14 15:34:16,845 INFO log.py[ln:15] 返回正确结果
+2020-05-14 15:38:21,184 INFO log.py[ln:15] 接到任务
+2020-05-14 15:38:21,184 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/levaca-Womens-Pullover-Sweatshirts-Leggings/dp/B07XNWKYYK/ref=redir_mobile_desktop?ie=UTF8&aaxitk=OONmzBprpSjiMfm8YFPamA&hsa_cr_id=4684245910101&ref_=sb_s_sparkle', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-05-14 15:38:21,184 INFO log.py[ln:15] 开始处理 
+2020-05-14 15:38:21,185 INFO log.py[ln:15] 开始处理 
+2020-05-14 15:38:21,185 INFO log.py[ln:15] 开始处理 
+2020-05-14 15:38:21,186 INFO log.py[ln:15] 返回正确结果
+2020-05-14 16:31:19,174 INFO log.py[ln:15] 接到任务
+2020-05-14 16:31:19,174 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/levaca-Womens-Pullover-Sweatshirts-Leggings/dp/B07XNWKYYK/ref=redir_mobile_desktop?ie=UTF8&aaxitk=OONmzBprpSjiMfm8YFPamA&hsa_cr_id=4684245910101&ref_=sb_s_sparkle', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-05-14 16:31:19,175 INFO log.py[ln:15] 开始处理 
+2020-05-14 16:31:19,839 INFO log.py[ln:15] 开始处理 
+2020-05-14 16:31:41,342 INFO log.py[ln:15] 接到任务
+2020-05-14 16:31:41,342 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/levaca-Womens-Pullover-Sweatshirts-Leggings/dp/B07XNWKYYK/ref=redir_mobile_desktop?ie=UTF8&aaxitk=OONmzBprpSjiMfm8YFPamA&hsa_cr_id=4684245910101&ref_=sb_s_sparkle', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-05-14 16:31:41,342 INFO log.py[ln:15] 开始处理 
+2020-05-14 16:31:41,946 INFO log.py[ln:15] 开始处理 
+2020-05-14 16:32:12,365 INFO log.py[ln:15] 接到任务
+2020-05-14 16:32:12,365 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/levaca-Womens-Pullover-Sweatshirts-Leggings/dp/B07XNWKYYK/ref=redir_mobile_desktop?ie=UTF8&aaxitk=OONmzBprpSjiMfm8YFPamA&hsa_cr_id=4684245910101&ref_=sb_s_sparkle', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': True}
+2020-05-14 16:32:12,366 INFO log.py[ln:15] 开始处理 
+2020-05-14 16:32:37,098 INFO log.py[ln:15] 接到任务
+2020-05-14 16:32:37,098 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/levaca-Womens-Pullover-Sweatshirts-Leggings/dp/B07XNWKYYK/ref=redir_mobile_desktop?ie=UTF8&aaxitk=OONmzBprpSjiMfm8YFPamA&hsa_cr_id=4684245910101&ref_=sb_s_sparkle', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': True}
+2020-05-14 16:32:37,099 INFO log.py[ln:15] 开始处理 
+2020-05-14 17:04:06,812 INFO log.py[ln:15] 接到任务
+2020-05-14 17:04:06,812 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/levaca-Womens-Pullover-Sweatshirts-Leggings/dp/B07XNWKYYK/ref=redir_mobile_desktop?ie=UTF8&aaxitk=OONmzBprpSjiMfm8YFPamA&hsa_cr_id=4684245910101&ref_=sb_s_sparkle', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-05-14 17:04:06,813 INFO log.py[ln:15] 开始处理 
+2020-05-14 17:05:31,914 INFO log.py[ln:15] 接到任务
+2020-05-14 17:05:31,914 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/levaca-Womens-Pullover-Sweatshirts-Leggings/dp/B07XNWKYYK/ref=redir_mobile_desktop?ie=UTF8&aaxitk=OONmzBprpSjiMfm8YFPamA&hsa_cr_id=4684245910101&ref_=sb_s_sparkle', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-05-14 17:05:31,915 INFO log.py[ln:15] 开始处理 
+2020-05-14 17:05:52,319 INFO log.py[ln:15] 接到任务
+2020-05-14 17:05:52,319 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/levaca-Womens-Pullover-Sweatshirts-Leggings/dp/B07XNWKYYK/ref=redir_mobile_desktop?ie=UTF8&aaxitk=OONmzBprpSjiMfm8YFPamA&hsa_cr_id=4684245910101&ref_=sb_s_sparkle', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-05-14 17:05:52,319 INFO log.py[ln:15] 开始处理 
+2020-05-14 17:05:52,960 INFO log.py[ln:15] 开始处理 
+2020-05-14 17:09:01,926 INFO log.py[ln:15] 接到任务
+2020-05-14 17:09:01,927 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/levaca-Womens-Pullover-Sweatshirts-Leggings/dp/B07XNWKYYK/ref=redir_mobile_desktop?ie=UTF8&aaxitk=OONmzBprpSjiMfm8YFPamA&hsa_cr_id=4684245910101&ref_=sb_s_sparkle', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-05-14 17:09:01,927 INFO log.py[ln:15] 开始处理 
+2020-05-14 17:09:05,463 INFO log.py[ln:15] 开始处理 
+2020-05-14 17:09:09,105 INFO log.py[ln:15] 开始处理 
+2020-05-14 17:09:14,412 INFO log.py[ln:15] 返回正确结果
+2020-05-14 17:09:14,533 INFO log.py[ln:15] 请求出错
+2020-05-14 17:09:14,533 INFO log.py[ln:15] 插入数据成功
+2020-05-14 17:10:22,603 INFO log.py[ln:15] 接到任务
+2020-05-14 17:10:22,603 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/levaca-Womens-Pullover-Sweatshirts-Leggings/dp/B07XNWKYYK/ref=redir_mobile_desktop?ie=UTF8&aaxitk=OONmzBprpSjiMfm8YFPamA&hsa_cr_id=4684245910101&ref_=sb_s_sparkle', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-05-14 17:10:22,604 INFO log.py[ln:15] 开始处理 
+2020-05-14 17:10:25,692 INFO log.py[ln:15] 开始处理 

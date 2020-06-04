@@ -1,0 +1,8 @@
+2020-06-04 14:42:53,020 INFO log.py[ln:15] 接到任务
+2020-06-04 14:42:53,021 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/dp/B07TBWLS4T/ref=sspa_dk_detail_2?psc=1&pd_rd_i=B07TBWLS4T&pd_rd_w=aAzwf&pf_rd_p=48d372c1-f7e1-4b8b-9d02-4bd86f5158c5&pd_rd_wg=lvbRc&pf_rd_r=FYSKFSCNBAPGVKV376PV&pd_rd_r=dc8a340f-b7fc-424e-91c9-aacbadac9500&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFOMVFDS05TSTFQN1kmZW5jcnlwdGVkSWQ9QTA1OTk4MjkyVzRGUDNIN0dMVEVXJmVuY3J5cHRlZEFkSWQ9QTA5OTk3ODMyS1lCSENYRDBKM1EyJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-06-04 14:42:53,021 INFO log.py[ln:15] 开始处理 
+2020-06-04 14:42:59,223 INFO log.py[ln:15] 开始处理 
+2020-06-04 14:43:02,353 INFO log.py[ln:15] 开始处理 
+2020-06-04 14:43:02,894 INFO log.py[ln:15] 返回正确结果
+2020-06-04 14:43:03,997 INFO log.py[ln:15] 请求出错
+2020-06-04 14:43:03,997 INFO log.py[ln:15] 插入数据成功

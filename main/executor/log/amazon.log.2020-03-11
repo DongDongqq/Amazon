@@ -1,0 +1,262 @@
+2020-03-11 11:28:55,239 INFO log.py[ln:15] 接到任务
+2020-03-11 11:28:55,240 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/-/zh/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_aps_sr_pg1_1?ie=UTF8&adId=A01148621QEZWA2N8GVT&url=%2Fdp%2FB07Q55V974%2Fref%3Dsr_1_1_sspa%3Fkeywords%3DMobile%2Bphone%26qid%3D1577068308%26sr%3D8-1-spons%26psc%3D1&qualifier=1577068308&id=5717414503322498&widgetName=sp_atf', 'countryCode': 'CN', 'language': '', 'captcha': False}
+2020-03-11 11:29:43,215 INFO log.py[ln:15] 接到任务
+2020-03-11 11:29:43,216 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Marinos-Genuine-Leather-Single-Buckle/dp/B071HH4JL9/ref=gbps_img_m-9_475e_5318824e?smid=A868MVBJ0BE08&pf_rd_p=5d86def2-ec10-4364-9008-8fbccf30475e&pf_rd_s=merchandised-search-9&pf_rd_t=101&pf_rd_i=15529609011&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=1ME4V9V9KRAYJFAY43DE', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:29:43,216 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:29:44,539 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:29:47,126 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:31:04,926 INFO log.py[ln:15] 接到任务
+2020-03-11 11:31:04,926 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Marinos-Genuine-Leather-Single-Buckle/dp/B071HH4JL9/ref=gbps_img_m-9_475e_5318824e?smid=A868MVBJ0BE08&pf_rd_p=5d86def2-ec10-4364-9008-8fbccf30475e&pf_rd_s=merchandised-search-9&pf_rd_t=101&pf_rd_i=15529609011&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=1ME4V9V9KRAYJFAY43DE', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:31:04,927 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:32:16,496 INFO log.py[ln:15] 接到任务
+2020-03-11 11:32:16,497 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:32:16,497 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:32:26,578 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:32:30,260 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:33:22,521 INFO log.py[ln:15] 接到任务
+2020-03-11 11:33:22,521 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:33:22,522 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:34:58,510 INFO log.py[ln:15] 接到任务
+2020-03-11 11:34:58,511 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:34:58,511 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:35:01,027 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:35:04,856 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:35:46,611 INFO log.py[ln:15] 接到任务
+2020-03-11 11:35:46,612 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:35:46,612 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:36:20,568 INFO log.py[ln:15] 接到任务
+2020-03-11 11:36:20,568 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:36:20,568 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:36:26,823 INFO log.py[ln:15] 接到任务
+2020-03-11 11:36:26,823 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:36:26,824 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:36:33,065 INFO log.py[ln:15] 接到任务
+2020-03-11 11:36:33,066 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:36:33,066 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:36:55,706 INFO log.py[ln:15] 接到任务
+2020-03-11 11:36:55,707 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:36:55,707 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:37:10,811 INFO log.py[ln:15] 接到任务
+2020-03-11 11:37:10,812 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:37:10,812 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:37:20,755 INFO log.py[ln:15] 接到任务
+2020-03-11 11:37:20,756 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:37:20,756 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:37:34,489 INFO log.py[ln:15] 接到任务
+2020-03-11 11:37:34,489 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:37:34,490 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:38:27,081 INFO log.py[ln:15] 接到任务
+2020-03-11 11:38:27,082 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:38:27,082 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:38:27,083 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:38:29,991 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:39:05,367 INFO log.py[ln:15] 接到任务
+2020-03-11 11:39:05,367 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:39:05,368 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:39:05,369 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:39:08,802 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:39:49,303 INFO log.py[ln:15] 接到任务
+2020-03-11 11:39:49,304 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:39:49,304 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:39:59,222 INFO log.py[ln:15] 接到任务
+2020-03-11 11:39:59,222 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:39:59,222 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:40:05,297 INFO log.py[ln:15] 接到任务
+2020-03-11 11:40:05,297 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:40:05,298 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:40:06,586 INFO log.py[ln:15] 接到任务
+2020-03-11 11:40:06,587 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:40:06,587 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:40:07,277 INFO log.py[ln:15] 接到任务
+2020-03-11 11:40:07,277 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:40:07,277 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:40:27,036 INFO log.py[ln:15] 接到任务
+2020-03-11 11:40:27,036 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:40:27,036 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:40:33,427 INFO log.py[ln:15] 接到任务
+2020-03-11 11:40:33,427 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:40:33,428 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:40:49,384 INFO log.py[ln:15] 接到任务
+2020-03-11 11:40:49,385 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:40:49,385 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:40:55,617 INFO log.py[ln:15] 接到任务
+2020-03-11 11:40:55,617 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:40:55,617 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:41:12,501 INFO log.py[ln:15] 接到任务
+2020-03-11 11:41:12,502 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:41:12,502 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:41:16,132 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:41:22,626 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:41:36,703 INFO log.py[ln:15] 接到任务
+2020-03-11 11:41:36,704 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:41:36,704 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:41:43,819 INFO log.py[ln:15] 接到任务
+2020-03-11 11:41:43,820 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:41:43,820 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:43:43,664 INFO log.py[ln:15] 接到任务
+2020-03-11 11:43:43,665 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:43:43,665 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:44:02,202 INFO log.py[ln:15] 接到任务
+2020-03-11 11:44:02,203 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:44:02,203 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:44:03,787 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:44:05,624 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:46:52,563 INFO log.py[ln:15] 接到任务
+2020-03-11 11:46:52,563 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:46:52,563 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:47:00,779 INFO log.py[ln:15] 接到任务
+2020-03-11 11:47:00,779 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:47:00,779 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:47:06,720 INFO log.py[ln:15] 接到任务
+2020-03-11 11:47:06,720 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:47:06,720 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:47:12,657 INFO log.py[ln:15] 接到任务
+2020-03-11 11:47:12,658 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:47:12,658 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:47:20,104 INFO log.py[ln:15] 接到任务
+2020-03-11 11:47:20,104 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:47:20,105 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:47:26,363 INFO log.py[ln:15] 接到任务
+2020-03-11 11:47:26,363 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:47:26,364 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:47:28,213 INFO log.py[ln:15] 接到任务
+2020-03-11 11:47:28,213 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:47:28,214 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:52:26,749 INFO log.py[ln:15] 接到任务
+2020-03-11 11:52:26,749 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:52:26,749 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:52:37,150 INFO log.py[ln:15] 接到任务
+2020-03-11 11:52:37,151 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:52:37,151 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:52:45,223 INFO log.py[ln:15] 接到任务
+2020-03-11 11:52:45,223 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:52:45,223 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:52:45,897 INFO log.py[ln:15] 接到任务
+2020-03-11 11:52:45,897 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:52:45,898 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:52:54,309 INFO log.py[ln:15] 接到任务
+2020-03-11 11:52:54,309 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:52:54,309 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:53:29,033 INFO log.py[ln:15] 接到任务
+2020-03-11 11:53:29,033 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:53:29,033 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:53:34,265 INFO log.py[ln:15] 接到任务
+2020-03-11 11:53:34,265 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:53:34,265 INFO log.py[ln:15] 开始处理 as
+2020-03-11 11:53:40,469 INFO log.py[ln:15] 接到任务
+2020-03-11 11:53:40,469 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 11:53:40,469 INFO log.py[ln:15] 开始处理 as
+2020-03-11 13:22:30,949 INFO log.py[ln:15] 接到任务
+2020-03-11 13:22:30,950 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 13:22:30,950 INFO log.py[ln:15] 开始处理 as
+2020-03-11 13:23:48,501 INFO log.py[ln:15] 接到任务
+2020-03-11 13:23:48,501 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 13:23:48,501 INFO log.py[ln:15] 开始处理 as
+2020-03-11 13:23:58,278 INFO log.py[ln:15] 开始处理 as
+2020-03-11 13:24:01,369 INFO log.py[ln:15] 开始处理 as
+2020-03-11 13:25:50,605 INFO log.py[ln:15] 接到任务
+2020-03-11 13:25:50,605 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 13:25:50,605 INFO log.py[ln:15] 开始处理 as
+2020-03-11 13:25:57,907 INFO log.py[ln:15] 开始处理 as
+2020-03-11 13:26:25,163 INFO log.py[ln:15] 开始处理 as
+2020-03-11 13:27:00,772 INFO log.py[ln:15] 接到任务
+2020-03-11 13:27:00,772 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 13:27:00,773 INFO log.py[ln:15] 开始处理 as
+2020-03-11 13:27:03,452 INFO log.py[ln:15] 开始处理 as
+2020-03-11 13:27:07,885 INFO log.py[ln:15] 开始处理 as
+2020-03-11 13:28:05,488 INFO log.py[ln:15] 接到任务
+2020-03-11 13:28:05,489 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 13:28:05,489 INFO log.py[ln:15] 开始处理 as
+2020-03-11 13:28:12,518 INFO log.py[ln:15] 开始处理 as
+2020-03-11 13:28:18,329 INFO log.py[ln:15] 开始处理 as
+2020-03-11 13:29:14,903 INFO log.py[ln:15] 接到任务
+2020-03-11 13:29:14,904 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 13:29:14,904 INFO log.py[ln:15] 开始处理 as
+2020-03-11 13:29:34,406 INFO log.py[ln:15] 接到任务
+2020-03-11 13:29:34,406 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 13:29:34,406 INFO log.py[ln:15] 开始处理 as
+2020-03-11 13:29:37,755 INFO log.py[ln:15] 开始处理 as
+2020-03-11 13:30:08,490 INFO log.py[ln:15] 接到任务
+2020-03-11 13:30:08,491 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 13:30:08,491 INFO log.py[ln:15] 开始处理 as
+2020-03-11 13:30:14,136 INFO log.py[ln:15] 开始处理 as
+2020-03-11 13:30:22,815 INFO log.py[ln:15] 开始处理 as
+2020-03-11 13:30:32,624 INFO log.py[ln:15] 接到任务
+2020-03-11 13:30:32,624 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 13:30:32,624 INFO log.py[ln:15] 开始处理 as
+2020-03-11 13:30:45,744 INFO log.py[ln:15] 接到任务
+2020-03-11 13:30:45,744 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 13:30:45,744 INFO log.py[ln:15] 开始处理 as
+2020-03-11 13:30:54,869 INFO log.py[ln:15] 接到任务
+2020-03-11 13:30:54,869 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 13:30:54,869 INFO log.py[ln:15] 开始处理 as
+2020-03-11 13:36:50,525 INFO log.py[ln:15] 接到任务
+2020-03-11 13:36:50,525 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 13:36:50,526 INFO log.py[ln:15] 开始处理 as
+2020-03-11 14:28:34,908 INFO log.py[ln:15] 接到任务
+2020-03-11 14:28:34,908 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 14:28:34,909 INFO log.py[ln:15] 开始处理 as
+2020-03-11 14:28:42,374 INFO log.py[ln:15] 开始处理 as
+2020-03-11 14:29:52,644 INFO log.py[ln:15] 接到任务
+2020-03-11 14:29:52,645 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 14:29:52,645 INFO log.py[ln:15] 开始处理 as
+2020-03-11 14:29:53,391 INFO log.py[ln:15] 接到任务
+2020-03-11 14:29:53,391 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 14:29:53,391 INFO log.py[ln:15] 开始处理 as
+2020-03-11 14:29:54,754 INFO log.py[ln:15] 开始处理 as
+2020-03-11 14:31:07,682 INFO log.py[ln:15] 接到任务
+2020-03-11 14:31:07,683 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 14:31:07,683 INFO log.py[ln:15] 开始处理 as
+2020-03-11 14:31:27,812 INFO log.py[ln:15] 开始处理 as
+2020-03-11 14:32:11,788 INFO log.py[ln:15] 接到任务
+2020-03-11 14:32:11,788 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 14:32:11,788 INFO log.py[ln:15] 开始处理 as
+2020-03-11 14:32:20,204 INFO log.py[ln:15] 开始处理 as
+2020-03-11 14:38:37,164 INFO log.py[ln:15] 接到任务
+2020-03-11 14:38:37,164 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 14:38:37,165 INFO log.py[ln:15] 开始处理 as
+2020-03-11 14:38:43,631 INFO log.py[ln:15] 开始处理 as
+2020-03-11 14:40:13,159 INFO log.py[ln:15] 接到任务
+2020-03-11 14:40:13,159 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 14:40:13,160 INFO log.py[ln:15] 开始处理 as
+2020-03-11 14:40:15,511 INFO log.py[ln:15] 开始处理 as
+2020-03-11 14:40:52,832 INFO log.py[ln:15] 接到任务
+2020-03-11 14:40:52,832 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 14:40:52,832 INFO log.py[ln:15] 开始处理 as
+2020-03-11 14:40:54,556 INFO log.py[ln:15] 开始处理 as
+2020-03-11 14:44:47,617 INFO log.py[ln:15] 接到任务
+2020-03-11 14:44:47,617 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 14:44:47,617 INFO log.py[ln:15] 开始处理 as
+2020-03-11 14:45:23,803 INFO log.py[ln:15] 接到任务
+2020-03-11 14:45:23,803 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 14:45:23,804 INFO log.py[ln:15] 开始处理 as
+2020-03-11 14:45:37,092 INFO log.py[ln:15] 开始处理 as
+2020-03-11 14:46:12,439 INFO log.py[ln:15] 接到任务
+2020-03-11 14:46:12,439 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 14:46:12,440 INFO log.py[ln:15] 开始处理 as
+2020-03-11 14:46:13,273 INFO log.py[ln:15] 开始处理 as
+2020-03-11 15:52:56,223 INFO log.py[ln:15] 接到任务
+2020-03-11 15:52:56,223 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': False}
+2020-03-11 15:52:56,224 INFO log.py[ln:15] 开始处理 as
+2020-03-11 15:53:33,463 INFO log.py[ln:15] 接到任务
+2020-03-11 15:53:33,464 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': True}
+2020-03-11 15:53:33,464 INFO log.py[ln:15] 开始处理 as
+2020-03-11 15:53:47,579 INFO log.py[ln:15] 接到任务
+2020-03-11 15:53:47,579 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'captcha': True}
+2020-03-11 15:53:47,580 INFO log.py[ln:15] 开始处理 as
+2020-03-11 15:59:04,747 INFO log.py[ln:15] 接到任务
+2020-03-11 15:59:04,747 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'isproxy': False}
+2020-03-11 15:59:04,748 INFO log.py[ln:15] 开始处理 as
+2020-03-11 15:59:30,075 INFO log.py[ln:15] 接到任务
+2020-03-11 15:59:30,075 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'isproxy': True}
+2020-03-11 15:59:30,075 INFO log.py[ln:15] 开始处理 as
+2020-03-11 16:05:28,680 INFO log.py[ln:15] 接到任务
+2020-03-11 16:05:28,680 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': 'as', 'isproxy': True}
+2020-03-11 16:05:28,681 INFO log.py[ln:15] 开始处理 as
+2020-03-11 16:05:31,571 INFO log.py[ln:15] 开始处理 as
+2020-03-11 16:06:24,613 INFO log.py[ln:15] 接到任务
+2020-03-11 16:06:24,613 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/GTRACING-Ergonomic-Backrest-Adjustment-Computer/dp/B01N2RJ0HI?ref_=ast_sto_dp', 'countryCode': 'CN', 'language': '', 'key': 'as', 'isproxy': True}
+2020-03-11 16:06:24,613 INFO log.py[ln:15] 开始处理 as
+2020-03-11 16:06:40,429 INFO log.py[ln:15] 接到任务
+2020-03-11 16:06:40,430 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Realtree-Performance-Pullover-Fleece-Camouflage/dp/B01JRCP3CG', 'countryCode': 'CN', 'language': '', 'key': 'as', 'isproxy': True}
+2020-03-11 16:06:40,430 INFO log.py[ln:15] 开始处理 as

@@ -1,0 +1,221 @@
+2020-03-12 17:07:17,530 INFO log.py[ln:15] 接到任务
+2020-03-12 17:07:17,532 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Realtree-Performance-Pullover-Fleece-Camouflage/dp/B01JRCP3CG', 'countryCode': 'CN', 'language': '', 'key': 'as', 'isproxy': True}
+2020-03-12 17:07:17,533 INFO log.py[ln:15] 开始处理 as
+2020-03-12 17:07:18,933 INFO log.py[ln:15] 开始处理 as
+2020-03-12 17:07:28,349 INFO log.py[ln:15] 开始处理 as
+2020-03-12 17:08:24,526 INFO log.py[ln:15] 接到任务
+2020-03-12 17:08:24,526 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/dp/B07PLKTWZV/ref=sspa_dk_detail_0?pd_rd_i=B07PLKTWZV&pd_rd_w=ItMbr&pf_rd_p=45a72588-80f7-4414-9851-786f6c16d42b&pd_rd_wg=VZepI&pf_rd_r=ANHBT1XW1E5GAFVG9E6W&pd_rd_r=42285f5e-19d6-4182-ad79-14153c27df10&smid=A10EG1PQ5HKCZY&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzTFY5S1JJRTdJQk81JmVuY3J5cHRlZElkPUEwNTgyODMwMkpaQjFZVVVJNlhBVSZlbmNyeXB0ZWRBZElkPUEwNjMyMTU3UDIwSFhWWFBHU0pMJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1&psc=1', 'countryCode': 'CN', 'language': '', 'key': 'as', 'isproxy': True}
+2020-03-12 17:08:24,527 INFO log.py[ln:15] 开始处理 as
+2020-03-12 17:09:11,814 INFO log.py[ln:15] 接到任务
+2020-03-12 17:09:11,815 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/dp/B07PLKTWZV/ref=sspa_dk_detail_0?pd_rd_i=B07PLKTWZV&pd_rd_w=ItMbr&pf_rd_p=45a72588-80f7-4414-9851-786f6c16d42b&pd_rd_wg=VZepI&pf_rd_r=ANHBT1XW1E5GAFVG9E6W&pd_rd_r=42285f5e-19d6-4182-ad79-14153c27df10&smid=A10EG1PQ5HKCZY&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzTFY5S1JJRTdJQk81JmVuY3J5cHRlZElkPUEwNTgyODMwMkpaQjFZVVVJNlhBVSZlbmNyeXB0ZWRBZElkPUEwNjMyMTU3UDIwSFhWWFBHU0pMJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1&psc=1', 'countryCode': 'CN', 'language': '', 'key': 'as', 'isproxy': True}
+2020-03-12 17:09:11,815 INFO log.py[ln:15] 开始处理 as
+2020-03-12 17:10:26,347 INFO log.py[ln:15] 接到任务
+2020-03-12 17:10:26,348 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/dp/B07PVNZ2CV/ref=sspa_dk_detail_7?psc=1&pd_rd_i=B07PVNZ2CV&pd_rd_w=AWELk&pf_rd_p=45a72588-80f7-4414-9851-786f6c16d42b&pd_rd_wg=UdySL&pf_rd_r=80XVY1R4YP2YECJ0AZ4P&pd_rd_r=0fd341d2-2dfc-4270-b3be-841f59e42c21&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzQUlUMjI0WTIwNkM1JmVuY3J5cHRlZElkPUEwMjkyMTYxMkJYRzZHVFVSOTVXRCZlbmNyeXB0ZWRBZElkPUEwMzYyMTMxM0VFR1ZNRzhFSjBJQSZ3aWRnZXROYW1lPXNwX2RldGFpbCZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=', 'countryCode': 'CN', 'language': '', 'key': 'as', 'isproxy': True}
+2020-03-12 17:10:26,348 INFO log.py[ln:15] 开始处理 as
+2020-03-12 17:11:47,096 INFO log.py[ln:15] 接到任务
+2020-03-12 17:11:47,096 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Sony-X950G-85-Inch-Compatibility/dp/B07MVZMD4C/ref=gbps_img_m-9_475e_fd6c4d2d?smid=ATVPDKIKX0DER&pf_rd_p=5d86def2-ec10-4364-9008-8fbccf30475e&pf_rd_s=merchandised-search-9&pf_rd_t=101&pf_rd_i=15529609011&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=31FBQ01X1THJAH9R7ZE2', 'countryCode': 'CN', 'language': '', 'key': 'as', 'isproxy': True}
+2020-03-12 17:11:47,097 INFO log.py[ln:15] 开始处理 as
+2020-03-12 17:11:49,119 INFO log.py[ln:15] 开始处理 as
+2020-03-12 17:11:50,418 INFO log.py[ln:15] 开始处理 as
+2020-03-12 17:11:56,200 INFO log.py[ln:15] 接到任务
+2020-03-12 17:11:56,201 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Sony-X950G-85-Inch-Compatibility/dp/B07MVZMD4C/ref=gbps_img_m-9_475e_fd6c4d2d?smid=ATVPDKIKX0DER&pf_rd_p=5d86def2-ec10-4364-9008-8fbccf30475e&pf_rd_s=merchandised-search-9&pf_rd_t=101&pf_rd_i=15529609011&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=31FBQ01X1THJAH9R7ZE2', 'countryCode': 'CN', 'language': '', 'key': 'as', 'isproxy': True}
+2020-03-12 17:11:56,201 INFO log.py[ln:15] 开始处理 as
+2020-03-12 17:11:59,384 INFO log.py[ln:15] 开始处理 as
+2020-03-12 17:12:03,051 INFO log.py[ln:15] 开始处理 as
+2020-03-12 17:12:07,670 INFO log.py[ln:15] 接到任务
+2020-03-12 17:12:07,670 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Sony-X950G-85-Inch-Compatibility/dp/B07MVZMD4C/ref=gbps_img_m-9_475e_fd6c4d2d?smid=ATVPDKIKX0DER&pf_rd_p=5d86def2-ec10-4364-9008-8fbccf30475e&pf_rd_s=merchandised-search-9&pf_rd_t=101&pf_rd_i=15529609011&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=31FBQ01X1THJAH9R7ZE2', 'countryCode': 'CN', 'language': '', 'key': 'as', 'isproxy': True}
+2020-03-12 17:12:07,670 INFO log.py[ln:15] 开始处理 as
+2020-03-12 17:12:10,076 INFO log.py[ln:15] 开始处理 as
+2020-03-12 17:12:11,147 INFO log.py[ln:15] 开始处理 as
+2020-03-12 17:12:19,179 INFO log.py[ln:15] 接到任务
+2020-03-12 17:12:19,179 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Sony-X950G-85-Inch-Compatibility/dp/B07MVZMD4C/ref=gbps_img_m-9_475e_fd6c4d2d?smid=ATVPDKIKX0DER&pf_rd_p=5d86def2-ec10-4364-9008-8fbccf30475e&pf_rd_s=merchandised-search-9&pf_rd_t=101&pf_rd_i=15529609011&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=31FBQ01X1THJAH9R7ZE2', 'countryCode': 'CN', 'language': '', 'key': 'as', 'isproxy': True}
+2020-03-12 17:12:19,180 INFO log.py[ln:15] 开始处理 as
+2020-03-12 17:12:22,496 INFO log.py[ln:15] 开始处理 as
+2020-03-12 17:12:23,603 INFO log.py[ln:15] 开始处理 as
+2020-03-12 17:12:44,936 INFO log.py[ln:15] 接到任务
+2020-03-12 17:12:44,936 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Realtree-Performance-Pullover-Fleece-Camouflage/dp/B01JRCP3CG', 'countryCode': 'CN', 'language': '', 'key': 'as', 'isproxy': True}
+2020-03-12 17:12:44,936 INFO log.py[ln:15] 开始处理 as
+2020-03-12 17:12:47,584 INFO log.py[ln:15] 开始处理 as
+2020-03-12 17:12:56,713 INFO log.py[ln:15] 开始处理 as
+2020-03-12 17:13:03,495 INFO log.py[ln:15] 接到任务
+2020-03-12 17:13:03,495 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Realtree-Performance-Pullover-Fleece-Camouflage/dp/B01JRCP3CG', 'countryCode': 'CN', 'language': '', 'key': 'as', 'isproxy': True}
+2020-03-12 17:13:03,495 INFO log.py[ln:15] 开始处理 as
+2020-03-12 17:13:04,746 INFO log.py[ln:15] 接到任务
+2020-03-12 17:13:04,747 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Realtree-Performance-Pullover-Fleece-Camouflage/dp/B01JRCP3CG', 'countryCode': 'CN', 'language': '', 'key': 'as', 'isproxy': True}
+2020-03-12 17:13:04,747 INFO log.py[ln:15] 开始处理 as
+2020-03-12 17:13:05,273 INFO log.py[ln:15] 接到任务
+2020-03-12 17:13:05,273 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Realtree-Performance-Pullover-Fleece-Camouflage/dp/B01JRCP3CG', 'countryCode': 'CN', 'language': '', 'key': 'as', 'isproxy': True}
+2020-03-12 17:13:05,274 INFO log.py[ln:15] 开始处理 as
+2020-03-12 17:13:07,459 INFO log.py[ln:15] 开始处理 as
+2020-03-12 17:14:29,187 INFO log.py[ln:15] 接到任务
+2020-03-12 17:14:29,188 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Women-Clothing-Sleeve-Tshirts-Fitting/dp/B07NVB4BDX/ref=gbps_img_m-9_475e_a342c1af?smid=A1UOZWGRWEK39S&pf_rd_p=5d86def2-ec10-4364-9008-8fbccf30475e&pf_rd_s=merchandised-search-9&pf_rd_t=101&pf_rd_i=15529609011&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=F8ZW55CGS06WBCK56GQ8', 'countryCode': 'CN', 'language': '', 'key': 'as', 'isproxy': True}
+2020-03-12 17:14:29,188 INFO log.py[ln:15] 开始处理 as
+2020-03-12 17:14:30,564 INFO log.py[ln:15] 开始处理 as
+2020-03-12 17:14:32,009 INFO log.py[ln:15] 开始处理 as
+2020-03-12 17:14:35,199 INFO log.py[ln:15] 接到任务
+2020-03-12 17:14:35,200 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Women-Clothing-Sleeve-Tshirts-Fitting/dp/B07NVB4BDX/ref=gbps_img_m-9_475e_a342c1af?smid=A1UOZWGRWEK39S&pf_rd_p=5d86def2-ec10-4364-9008-8fbccf30475e&pf_rd_s=merchandised-search-9&pf_rd_t=101&pf_rd_i=15529609011&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=F8ZW55CGS06WBCK56GQ8', 'countryCode': 'CN', 'language': '', 'key': 'as', 'isproxy': True}
+2020-03-12 17:14:35,200 INFO log.py[ln:15] 开始处理 as
+2020-03-12 17:16:17,821 INFO log.py[ln:15] 接到任务
+2020-03-12 17:16:17,821 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Women-Clothing-Sleeve-Tshirts-Fitting/dp/B07NVB4BDX/ref=gbps_img_m-9_475e_a342c1af?smid=A1UOZWGRWEK39S&pf_rd_p=5d86def2-ec10-4364-9008-8fbccf30475e&pf_rd_s=merchandised-search-9&pf_rd_t=101&pf_rd_i=15529609011&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=F8ZW55CGS06WBCK56GQ8', 'countryCode': 'CN', 'language': '', 'key': 'as', 'isproxy': True}
+2020-03-12 17:16:17,821 INFO log.py[ln:15] 开始处理 as
+2020-03-12 17:17:00,702 INFO log.py[ln:15] 接到任务
+2020-03-12 17:17:00,702 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Women-Clothing-Sleeve-Tshirts-Fitting/dp/B07NVB4BDX/ref=gbps_img_m-9_475e_a342c1af?smid=A1UOZWGRWEK39S&pf_rd_p=5d86def2-ec10-4364-9008-8fbccf30475e&pf_rd_s=merchandised-search-9&pf_rd_t=101&pf_rd_i=15529609011&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=F8ZW55CGS06WBCK56GQ8', 'countryCode': 'CN', 'language': '', 'key': 'as', 'isproxy': True}
+2020-03-12 17:17:00,702 INFO log.py[ln:15] 开始处理 as
+2020-03-12 17:18:46,320 INFO log.py[ln:15] 接到任务
+2020-03-12 17:18:46,320 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Women-Clothing-Sleeve-Tshirts-Fitting/dp/B07NVB4BDX/ref=gbps_img_m-9_475e_a342c1af?smid=A1UOZWGRWEK39S&pf_rd_p=5d86def2-ec10-4364-9008-8fbccf30475e&pf_rd_s=merchandised-search-9&pf_rd_t=101&pf_rd_i=15529609011&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=F8ZW55CGS06WBCK56GQ8', 'countryCode': 'CN', 'language': '', 'key': 'as', 'isproxy': False}
+2020-03-12 17:18:46,321 INFO log.py[ln:15] 开始处理 as
+2020-03-12 17:20:14,725 INFO log.py[ln:15] 接到任务
+2020-03-12 17:20:14,725 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/dp/B083WH2HFG/ref=sspa_dk_detail_2?psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzTThYUklJTVFZUk5EJmVuY3J5cHRlZElkPUEwNDYxNDg2VzJMVEJXSDVPTUw3JmVuY3J5cHRlZEFkSWQ9QTAxMzc4MTgzQVBWSlQxVk45TUUxJndpZGdldE5hbWU9c3BfZGV0YWlsMiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=', 'countryCode': 'CN', 'language': '', 'key': 'as', 'isproxy': False}
+2020-03-12 17:20:14,726 INFO log.py[ln:15] 开始处理 as
+2020-03-12 17:29:27,784 INFO log.py[ln:15] 接到任务
+2020-03-12 17:29:27,785 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Anker-PowerPort-Portable-Protection-Ultra-Compact/dp/B07PQW93VG/ref=gbps_img_m-9_475e_09ce606f?smid=A294P4X9EWVXLJ&pf_rd_p=5d86def2-ec10-4364-9008-8fbccf30475e&pf_rd_s=merchandised-search-9&pf_rd_t=101&pf_rd_i=15529609011&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=D7GW2QGSTXHQRHVN5Z1F', 'countryCode': 'CN', 'language': '', 'key': 'as', 'isproxy': False}
+2020-03-12 17:29:27,785 INFO log.py[ln:15] 开始处理 as
+2020-03-12 17:32:22,333 INFO log.py[ln:15] 接到任务
+2020-03-12 17:32:22,333 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/-/zh/dp/B07BLM28LS?pf_rd_r=H5VCWYN2YGXWG8FY1F6B&pf_rd_p=c4a36063-ed31-585b-b9d3-e14ee41d7e8c&pd_rd_r=42b89286-99de-4c83-a00a-5ecff9f46c2a&pd_rd_w=VKcM7&pd_rd_wg=q7Aqb&ref_=pd_gw_ri', 'countryCode': 'CN', 'language': '', 'key': 'as', 'isproxy': False}
+2020-03-12 17:32:22,334 INFO log.py[ln:15] 开始处理 as
+2020-03-12 17:32:54,009 INFO log.py[ln:15] 接到任务
+2020-03-12 17:32:54,010 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/-/zh/dp/B07BLM28LS?pf_rd_r=H5VCWYN2YGXWG8FY1F6B&pf_rd_p=c4a36063-ed31-585b-b9d3-e14ee41d7e8c&pd_rd_r=42b89286-99de-4c83-a00a-5ecff9f46c2a&pd_rd_w=VKcM7&pd_rd_wg=q7Aqb&ref_=pd_gw_ri', 'countryCode': 'CN', 'language': '', 'key': 'as', 'isproxy': False}
+2020-03-12 17:32:54,010 INFO log.py[ln:15] 开始处理 as
+2020-03-12 17:33:33,752 INFO log.py[ln:15] 接到任务
+2020-03-12 17:33:33,753 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/-/zh/dp/B07BLM28LS?pf_rd_r=H5VCWYN2YGXWG8FY1F6B&pf_rd_p=c4a36063-ed31-585b-b9d3-e14ee41d7e8c&pd_rd_r=42b89286-99de-4c83-a00a-5ecff9f46c2a&pd_rd_w=VKcM7&pd_rd_wg=q7Aqb&ref_=pd_gw_ri', 'countryCode': 'CN', 'language': '', 'key': 'as', 'isproxy': False}
+2020-03-12 17:33:33,753 INFO log.py[ln:15] 开始处理 as
+2020-03-12 17:34:15,994 INFO log.py[ln:15] 接到任务
+2020-03-12 17:34:15,994 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/-/zh/dp/B07BLM28LS?pf_rd_r=H5VCWYN2YGXWG8FY1F6B&pf_rd_p=c4a36063-ed31-585b-b9d3-e14ee41d7e8c&pd_rd_r=42b89286-99de-4c83-a00a-5ecff9f46c2a&pd_rd_w=VKcM7&pd_rd_wg=q7Aqb&ref_=pd_gw_ri', 'countryCode': 'CN', 'language': '', 'key': 'as', 'isproxy': False}
+2020-03-12 17:34:15,995 INFO log.py[ln:15] 开始处理 as
+2020-03-12 17:34:47,511 INFO log.py[ln:15] 接到任务
+2020-03-12 17:34:47,511 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/-/zh/dp/B07BLM28LS?pf_rd_r=H5VCWYN2YGXWG8FY1F6B&pf_rd_p=c4a36063-ed31-585b-b9d3-e14ee41d7e8c&pd_rd_r=42b89286-99de-4c83-a00a-5ecff9f46c2a&pd_rd_w=VKcM7&pd_rd_wg=q7Aqb&ref_=pd_gw_ri', 'countryCode': 'CN', 'language': '', 'key': 'as', 'isproxy': False}
+2020-03-12 17:34:47,511 INFO log.py[ln:15] 开始处理 as
+2020-03-12 17:35:29,877 INFO log.py[ln:15] 接到任务
+2020-03-12 17:35:29,878 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Sony-X950G-85-Inch-Compatibility/dp/B07MVZMD4C/ref=gbps_img_m-9_475e_fd6c4d2d?smid=ATVPDKIKX0DER&pf_rd_p=5d86def2-ec10-4364-9008-8fbccf30475e&pf_rd_s=merchandised-search-9&pf_rd_t=101&pf_rd_i=15529609011&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=TY3HW1NT0BR36KH0GJC3', 'countryCode': 'CN', 'language': '', 'key': 'as', 'isproxy': False}
+2020-03-12 17:35:29,878 INFO log.py[ln:15] 开始处理 as
+2020-03-12 17:36:50,828 INFO log.py[ln:15] 接到任务
+2020-03-12 17:36:50,829 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.cn/dp/B07B6FZ682?smid=A26HDXW89ZT98L&ref_=Oct_CBBBCard_dsk_asin5&pf_rd_r=BQ4AH8DCW1Y0P0ATH6HM&pf_rd_p=3f974805-ea47-43ca-9f36-30f77be0fad9&pf_rd_m=A1AJ19PSB66TGU&pf_rd_s=desktop-3', 'countryCode': 'CN', 'language': '', 'key': 'as', 'isproxy': False}
+2020-03-12 17:36:50,829 INFO log.py[ln:15] 开始处理 as
+2020-03-12 17:37:16,973 INFO log.py[ln:15] 接到任务
+2020-03-12 17:37:16,973 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.cn/dp/B07B6FZ682?smid=A26HDXW89ZT98L&ref_=Oct_CBBBCard_dsk_asin5&pf_rd_r=BQ4AH8DCW1Y0P0ATH6HM&pf_rd_p=3f974805-ea47-43ca-9f36-30f77be0fad9&pf_rd_m=A1AJ19PSB66TGU&pf_rd_s=desktop-3', 'countryCode': 'CN', 'language': '', 'key': 'as', 'isproxy': False}
+2020-03-12 17:37:16,973 INFO log.py[ln:15] 开始处理 as
+2020-03-12 17:38:24,237 INFO log.py[ln:15] 接到任务
+2020-03-12 17:38:24,237 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.cn/dp/B07B6FZ682?smid=A26HDXW89ZT98L&ref_=Oct_CBBBCard_dsk_asin5&pf_rd_r=BQ4AH8DCW1Y0P0ATH6HM&pf_rd_p=3f974805-ea47-43ca-9f36-30f77be0fad9&pf_rd_m=A1AJ19PSB66TGU&pf_rd_s=desktop-3', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-03-12 17:38:24,238 INFO log.py[ln:15] 开始处理 
+2020-03-12 17:39:09,577 INFO log.py[ln:15] 接到任务
+2020-03-12 17:39:09,577 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.cn/dp/B07B6FZ682', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-03-12 17:39:09,577 INFO log.py[ln:15] 开始处理 
+2020-03-12 17:39:36,097 INFO log.py[ln:15] 接到任务
+2020-03-12 17:39:36,097 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.cn/dp/B07B6FZ682', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-03-12 17:39:36,097 INFO log.py[ln:15] 开始处理 
+2020-03-12 17:44:20,358 INFO log.py[ln:15] 接到任务
+2020-03-12 17:44:20,359 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.cn/dp/B07B6FZ682', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-03-12 17:44:20,359 INFO log.py[ln:15] 开始处理 
+2020-03-12 17:44:58,688 INFO log.py[ln:15] 接到任务
+2020-03-12 17:44:58,689 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.cn/dp/B07B6FZ682', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-03-12 17:44:58,689 INFO log.py[ln:15] 开始处理 
+2020-03-12 17:45:28,085 INFO log.py[ln:15] 接到任务
+2020-03-12 17:45:28,085 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.cn/dp/B07B6FZ682', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-03-12 17:45:28,086 INFO log.py[ln:15] 开始处理 
+2020-03-12 17:45:36,325 INFO log.py[ln:15] 接到任务
+2020-03-12 17:45:36,326 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.cn/dp/B07B6FZ682', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-03-12 17:45:36,326 INFO log.py[ln:15] 开始处理 
+2020-03-12 17:46:29,681 INFO log.py[ln:15] 接到任务
+2020-03-12 17:46:29,681 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.cn/dp/B07B6FZ682', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-03-12 17:46:29,682 INFO log.py[ln:15] 开始处理 
+2020-03-12 17:47:11,661 INFO log.py[ln:15] 接到任务
+2020-03-12 17:47:11,662 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.cn/dp/B07B6FZ682', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-03-12 17:47:11,662 INFO log.py[ln:15] 开始处理 
+2020-03-12 17:47:49,404 INFO log.py[ln:15] 接到任务
+2020-03-12 17:47:49,404 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.cn/dp/B07B6FZ682', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-03-12 17:47:49,405 INFO log.py[ln:15] 开始处理 
+2020-03-12 17:48:10,537 INFO log.py[ln:15] 接到任务
+2020-03-12 17:48:10,538 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.cn/dp/B07B6FZ682', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-03-12 17:48:10,538 INFO log.py[ln:15] 开始处理 
+2020-03-12 17:55:15,852 INFO log.py[ln:15] 接到任务
+2020-03-12 17:55:15,852 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.cn/dp/B07B6FZ682', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-03-12 17:55:15,852 INFO log.py[ln:15] 开始处理 
+2020-03-12 17:58:12,191 INFO log.py[ln:15] 接到任务
+2020-03-12 17:58:12,191 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.cn/dp/B07B6FZ682', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-03-12 17:58:12,192 INFO log.py[ln:15] 开始处理 
+2020-03-12 18:01:09,181 INFO log.py[ln:15] 接到任务
+2020-03-12 18:01:09,181 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.cn/dp/B07B6FZ682', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-03-12 18:01:09,181 INFO log.py[ln:15] 开始处理 
+2020-03-12 18:01:50,063 INFO log.py[ln:15] 接到任务
+2020-03-12 18:01:50,064 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-03-12 18:01:50,064 INFO log.py[ln:15] 开始处理 
+2020-03-12 18:04:10,756 INFO log.py[ln:15] 接到任务
+2020-03-12 18:04:10,756 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-03-12 18:04:10,757 INFO log.py[ln:15] 开始处理 
+2020-03-12 18:04:44,767 INFO log.py[ln:15] 接到任务
+2020-03-12 18:04:44,767 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.cn/dp/B07B6FZ682?smid=A26HDXW89ZT98L&ref_=Oct_CBBBCard_dsk_asin5&pf_rd_r=BQ4AH8DCW1Y0P0ATH6HM&pf_rd_p=3f974805-ea47-43ca-9f36-30f77be0fad9&pf_rd_m=A1AJ19PSB66TGU&pf_rd_s=desktop-3', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-03-12 18:04:44,768 INFO log.py[ln:15] 开始处理 
+2020-03-12 18:05:35,962 INFO log.py[ln:15] 接到任务
+2020-03-12 18:05:35,962 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.cn/dp/B07B6FZ682?smid=A26HDXW89ZT98L&ref_=Oct_CBBBCard_dsk_asin5&pf_rd_r=BQ4AH8DCW1Y0P0ATH6HM&pf_rd_p=3f974805-ea47-43ca-9f36-30f77be0fad9&pf_rd_m=A1AJ19PSB66TGU&pf_rd_s=desktop-3', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-03-12 18:05:35,963 INFO log.py[ln:15] 开始处理 
+2020-03-12 18:06:26,598 INFO log.py[ln:15] 接到任务
+2020-03-12 18:06:26,598 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.cn/dp/B07B6FZ682?smid=A26HDXW89ZT98L&ref_=Oct_CBBBCard_dsk_asin5&pf_rd_r=BQ4AH8DCW1Y0P0ATH6HM&pf_rd_p=3f974805-ea47-43ca-9f36-30f77be0fad9&pf_rd_m=A1AJ19PSB66TGU&pf_rd_s=desktop-3', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-03-12 18:06:26,598 INFO log.py[ln:15] 开始处理 
+2020-03-12 18:06:43,914 INFO log.py[ln:15] 接到任务
+2020-03-12 18:06:43,914 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.cn/dp/B07B6FZ682?smid=A26HDXW89ZT98L&ref_=Oct_CBBBCard_dsk_asin5&pf_rd_r=BQ4AH8DCW1Y0P0ATH6HM&pf_rd_p=3f974805-ea47-43ca-9f36-30f77be0fad9&pf_rd_m=A1AJ19PSB66TGU&pf_rd_s=desktop-3', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-03-12 18:06:43,914 INFO log.py[ln:15] 开始处理 
+2020-03-12 18:06:56,736 INFO log.py[ln:15] 接到任务
+2020-03-12 18:06:56,737 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.cn/dp/B07B6FZ682?smid=A26HDXW89ZT98L&ref_=Oct_CBBBCard_dsk_asin5&pf_rd_r=BQ4AH8DCW1Y0P0ATH6HM&pf_rd_p=3f974805-ea47-43ca-9f36-30f77be0fad9&pf_rd_m=A1AJ19PSB66TGU&pf_rd_s=desktop-3', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-03-12 18:06:56,737 INFO log.py[ln:15] 开始处理 
+2020-03-12 18:07:22,681 INFO log.py[ln:15] 接到任务
+2020-03-12 18:07:22,681 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.cn/dp/B07B6FZ682?smid=A26HDXW89ZT98L&ref_=Oct_CBBBCard_dsk_asin5&pf_rd_r=BQ4AH8DCW1Y0P0ATH6HM&pf_rd_p=3f974805-ea47-43ca-9f36-30f77be0fad9&pf_rd_m=A1AJ19PSB66TGU&pf_rd_s=desktop-3', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-03-12 18:07:22,682 INFO log.py[ln:15] 开始处理 
+2020-03-12 18:07:38,402 INFO log.py[ln:15] 接到任务
+2020-03-12 18:07:38,403 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.cn/dp/B07B6FZ682?smid=A26HDXW89ZT98L&ref_=Oct_CBBBCard_dsk_asin5&pf_rd_r=BQ4AH8DCW1Y0P0ATH6HM&pf_rd_p=3f974805-ea47-43ca-9f36-30f77be0fad9&pf_rd_m=A1AJ19PSB66TGU&pf_rd_s=desktop-3', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-03-12 18:07:38,403 INFO log.py[ln:15] 开始处理 
+2020-03-12 18:08:10,206 INFO log.py[ln:15] 接到任务
+2020-03-12 18:08:10,206 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.cn/dp/B07B6FZ682?smid=A26HDXW89ZT98L&ref_=Oct_CBBBCard_dsk_asin5&pf_rd_r=BQ4AH8DCW1Y0P0ATH6HM&pf_rd_p=3f974805-ea47-43ca-9f36-30f77be0fad9&pf_rd_m=A1AJ19PSB66TGU&pf_rd_s=desktop-3', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-03-12 18:08:10,206 INFO log.py[ln:15] 开始处理 
+2020-03-12 18:08:57,175 INFO log.py[ln:15] 接到任务
+2020-03-12 18:08:57,176 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.cn/dp/B07B6FZ682?smid=A26HDXW89ZT98L&ref_=Oct_CBBBCard_dsk_asin5&pf_rd_r=BQ4AH8DCW1Y0P0ATH6HM&pf_rd_p=3f974805-ea47-43ca-9f36-30f77be0fad9&pf_rd_m=A1AJ19PSB66TGU&pf_rd_s=desktop-3', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-03-12 18:08:57,176 INFO log.py[ln:15] 开始处理 
+2020-03-12 18:09:34,830 INFO log.py[ln:15] 接到任务
+2020-03-12 18:09:34,830 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-03-12 18:09:34,831 INFO log.py[ln:15] 开始处理 
+2020-03-12 18:11:21,195 INFO log.py[ln:15] 接到任务
+2020-03-12 18:11:21,196 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/Carhartt-K87-Workwear-T-Shirt-Regular/dp/B000G73P3G?pf_rd_r=767AFH8DAEYGQ2D8SFKC&pf_rd_p=e7ce1c29-3021-5430-acf8-3180e1263e92&pd_rd_r=9ea0c930-006a-4df0-a089-64f6812dcb57&pd_rd_w=cVugp&pd_rd_wg=3lGyi&ref_=pd_gw_ri&th=1&language=en_US', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-03-12 18:11:21,196 INFO log.py[ln:15] 开始处理 
+2020-03-12 18:13:50,931 INFO log.py[ln:15] 接到任务
+2020-03-12 18:13:50,931 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/-/zh/dp/B075LYSP7Y/ref=pd_sim_504_6/142-2543287-9041732?_encoding=UTF8&pd_rd_i=B075LYSP7Y&pd_rd_r=458ef4a3-afed-477c-9b21-7df561903034&pd_rd_w=iNPTE&pd_rd_wg=1tN4c&pf_rd_p=bab57536-7c8f-4781-a8ed-3e270b9cd303&pf_rd_r=GM5ZGSJ800GDZEEBJNBQ&psc=1&refRID=GM5ZGSJ800GDZEEBJNBQ', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-03-12 18:13:50,931 INFO log.py[ln:15] 开始处理 
+2020-03-12 18:14:45,322 INFO log.py[ln:15] 接到任务
+2020-03-12 18:14:45,322 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/dp/B004669XQ6/ref=pd_rhf_se_s_gcx-rhf_0_10?_encoding=UTF8&pd_rd_i=B004669XQ6&pd_rd_r=01d09240-9878-490f-8012-53e670f47c13&pd_rd_w=NxTTb&pd_rd_wg=Obt4n&pf_rd_p=2ae4ccb1-7034-4114-8654-5ba995870d70&pf_rd_r=8XTA16Z3ACXTBCBNR3C2&psc=1&refRID=8XTA16Z3ACXTBCBNR3C2', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-03-12 18:14:45,323 INFO log.py[ln:15] 开始处理 
+2020-03-12 18:18:09,024 INFO log.py[ln:15] 接到任务
+2020-03-12 18:18:09,024 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/dp/B004669XQ6/ref=pd_rhf_se_s_gcx-rhf_0_10?_encoding=UTF8&pd_rd_i=B004669XQ6&pd_rd_r=01d09240-9878-490f-8012-53e670f47c13&pd_rd_w=NxTTb&pd_rd_wg=Obt4n&pf_rd_p=2ae4ccb1-7034-4114-8654-5ba995870d70&pf_rd_r=8XTA16Z3ACXTBCBNR3C2&psc=1&refRID=8XTA16Z3ACXTBCBNR3C2', 'countryCode': 'CN', 'language': 'en_US', 'key': '', 'isproxy': False}
+2020-03-12 18:18:09,025 INFO log.py[ln:15] 开始处理 
+2020-03-12 18:21:17,140 INFO log.py[ln:15] 接到任务
+2020-03-12 18:21:17,141 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.cn/dp/B07B6FZ682?smid=A26HDXW89ZT98L&ref_=Oct_CBBBCard_dsk_asin5&pf_rd_r=BQ4AH8DCW1Y0P0ATH6HM&pf_rd_p=3f974805-ea47-43ca-9f36-30f77be0fad9&pf_rd_m=A1AJ19PSB66TGU&pf_rd_s=desktop-3', 'countryCode': 'CN', 'language': 'en_US', 'key': '', 'isproxy': False}
+2020-03-12 18:21:17,141 INFO log.py[ln:15] 开始处理 
+2020-03-12 18:21:19,902 INFO log.py[ln:15] 返回正确结果
+2020-03-12 18:21:20,025 INFO log.py[ln:15] 插入数据成功
+2020-03-12 18:21:38,448 INFO log.py[ln:15] 接到任务
+2020-03-12 18:21:38,448 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.cn/dp/B07B6FZ682?smid=A26HDXW89ZT98L&ref_=Oct_CBBBCard_dsk_asin5&pf_rd_r=BQ4AH8DCW1Y0P0ATH6HM&pf_rd_p=3f974805-ea47-43ca-9f36-30f77be0fad9&pf_rd_m=A1AJ19PSB66TGU&pf_rd_s=desktop-3', 'countryCode': 'CN', 'language': 'en_US', 'key': '', 'isproxy': False}
+2020-03-12 18:21:38,449 INFO log.py[ln:15] 开始处理 
+2020-03-12 18:21:41,223 INFO log.py[ln:15] 返回正确结果
+2020-03-12 18:21:41,308 INFO log.py[ln:15] 插入数据成功
+2020-03-12 18:29:09,748 INFO log.py[ln:15] 接到任务
+2020-03-12 18:29:09,748 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.cn/gp/product/B0186FESGW/ref=s9_acss_bw_cg_Kindle_9a1_w?pf_rd_m=A1U5RCOVU0NYF2&pf_rd_s=merchandised-search-1&pf_rd_r=M307ZT0934WAD95RW8E4&pf_rd_t=101&pf_rd_p=ac9fd05e-c480-475b-a825-83c445252a6d&pf_rd_i=1991234071', 'countryCode': 'CN', 'language': 'en_US', 'key': '', 'isproxy': False}
+2020-03-12 18:29:09,749 INFO log.py[ln:15] 开始处理 
+2020-03-12 18:29:12,686 INFO log.py[ln:15] 返回正确结果
+2020-03-12 18:29:12,810 INFO log.py[ln:15] 插入数据成功
+2020-03-12 18:33:19,582 INFO log.py[ln:15] 接到任务
+2020-03-12 18:33:19,582 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.cn/dp/B00078MGT8?ref_=Oct_DLandingS_D_4d847e92_60&smid=A26HDXW89ZT98L', 'countryCode': 'CN', 'language': 'en_US', 'key': '', 'isproxy': False}
+2020-03-12 18:33:19,583 INFO log.py[ln:15] 开始处理 
+2020-03-12 18:33:21,908 INFO log.py[ln:15] 返回正确结果
+2020-03-12 18:33:21,989 INFO log.py[ln:15] 插入数据成功
+2020-03-12 18:35:20,184 INFO log.py[ln:15] 接到任务
+2020-03-12 18:35:20,184 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.cn/dp/B07K2V9SFN/ref=s9_acsd_hps_bw_c2_x_1_i?pf_rd_m=A1U5RCOVU0NYF2&pf_rd_s=merchandised-search-1&pf_rd_r=3QD4W36JNBZXNP0E8MAH&pf_rd_t=101&pf_rd_p=21499608-9b93-4256-a586-7be9f43c33b1&pf_rd_i=1519395071', 'countryCode': 'CN', 'language': 'en_US', 'key': '', 'isproxy': False}
+2020-03-12 18:35:20,184 INFO log.py[ln:15] 开始处理 
+2020-03-12 18:35:22,601 INFO log.py[ln:15] 返回正确结果
+2020-03-12 18:35:22,683 INFO log.py[ln:15] 插入数据成功
+2020-03-12 18:36:01,620 INFO log.py[ln:15] 接到任务
+2020-03-12 18:36:01,620 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/levaca-Womens-Pullover-Sweatshirts-Leggings/dp/B07XNWKYYK/ref=redir_mobile_desktop?ie=UTF8&aaxitk=OONmzBprpSjiMfm8YFPamA&hsa_cr_id=4684245910101&ref_=sb_s_sparkle', 'countryCode': 'CN', 'language': 'en_US', 'key': '', 'isproxy': False}
+2020-03-12 18:36:01,620 INFO log.py[ln:15] 开始处理 
+2020-03-12 18:36:05,605 INFO log.py[ln:15] 返回正确结果
+2020-03-12 18:36:05,710 INFO log.py[ln:15] 插入数据成功
+2020-03-12 18:37:01,452 INFO log.py[ln:15] 接到任务
+2020-03-12 18:37:01,453 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/levaca-Womens-Pullover-Sweatshirts-Leggings/dp/B07XNWKYYK/ref=redir_mobile_desktop?ie=UTF8&aaxitk=OONmzBprpSjiMfm8YFPamA&hsa_cr_id=4684245910101&ref_=sb_s_sparkle', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-03-12 18:37:01,453 INFO log.py[ln:15] 开始处理 
+2020-03-12 18:37:05,711 INFO log.py[ln:15] 返回正确结果
+2020-03-12 18:37:05,791 INFO log.py[ln:15] 插入数据成功

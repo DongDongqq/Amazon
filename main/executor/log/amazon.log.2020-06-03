@@ -1,0 +1,487 @@
+2020-06-03 14:54:16,821 INFO log.py[ln:15] 接到任务
+2020-06-03 14:54:16,823 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/dp/B06Y248ZRL', 'countryCode': 'DE', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 14:54:16,823 INFO log.py[ln:15] 开始处理 
+2020-06-03 14:54:20,325 INFO log.py[ln:15] 返回正确结果
+2020-06-03 14:54:20,449 INFO log.py[ln:15] 插入数据成功
+2020-06-03 14:55:27,812 INFO log.py[ln:15] 接到任务
+2020-06-03 14:55:27,812 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/dp/B06Y248ZRL', 'countryCode': 'DE', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 14:55:27,813 INFO log.py[ln:15] 开始处理 
+2020-06-03 14:55:30,569 INFO log.py[ln:15] 开始处理 
+2020-06-03 14:55:33,788 INFO log.py[ln:15] 开始处理 
+2020-06-03 14:56:06,277 INFO log.py[ln:15] 接到任务
+2020-06-03 14:56:06,277 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/dp/B06Y248ZRL', 'countryCode': 'DE', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 14:56:06,278 INFO log.py[ln:15] 开始处理 
+2020-06-03 14:56:08,709 INFO log.py[ln:15] 返回正确结果
+2020-06-03 14:56:08,813 INFO log.py[ln:15] 插入数据成功
+2020-06-03 14:57:34,785 INFO log.py[ln:15] 接到任务
+2020-06-03 14:57:34,785 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/dp/B06Y248ZRL', 'countryCode': 'DE', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 14:57:34,786 INFO log.py[ln:15] 开始处理 
+2020-06-03 14:57:39,308 INFO log.py[ln:15] 开始处理 
+2020-06-03 14:57:43,385 INFO log.py[ln:15] 开始处理 
+2020-06-03 14:57:46,522 INFO log.py[ln:15] 接到任务
+2020-06-03 14:57:46,522 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/dp/B06Y248ZRL', 'countryCode': 'DE', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 14:57:46,523 INFO log.py[ln:15] 开始处理 
+2020-06-03 14:57:48,533 INFO log.py[ln:15] 开始处理 
+2020-06-03 14:57:51,021 INFO log.py[ln:15] 开始处理 
+2020-06-03 14:57:54,312 INFO log.py[ln:15] 接到任务
+2020-06-03 14:57:54,312 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/dp/B06Y248ZRL', 'countryCode': 'DE', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 14:57:54,313 INFO log.py[ln:15] 开始处理 
+2020-06-03 14:57:59,374 INFO log.py[ln:15] 开始处理 
+2020-06-03 14:58:01,456 INFO log.py[ln:15] 接到任务
+2020-06-03 14:58:01,456 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/dp/B06Y248ZRL', 'countryCode': 'DE', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 14:58:01,456 INFO log.py[ln:15] 开始处理 
+2020-06-03 14:58:57,264 INFO log.py[ln:15] 接到任务
+2020-06-03 14:58:57,265 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/dp/B06Y248ZRL', 'countryCode': 'DE', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 14:58:57,265 INFO log.py[ln:15] 开始处理 
+2020-06-03 14:59:01,723 INFO log.py[ln:15] 开始处理 
+2020-06-03 14:59:41,908 INFO log.py[ln:15] 接到任务
+2020-06-03 14:59:41,908 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/dp/B06Y248ZRL', 'countryCode': 'DE', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 14:59:41,908 INFO log.py[ln:15] 开始处理 
+2020-06-03 14:59:45,784 INFO log.py[ln:15] 开始处理 
+2020-06-03 14:59:51,692 INFO log.py[ln:15] 开始处理 
+2020-06-03 14:59:54,564 INFO log.py[ln:15] 返回正确结果
+2020-06-03 14:59:54,663 INFO log.py[ln:15] 请求出错
+2020-06-03 14:59:54,663 INFO log.py[ln:15] 插入数据成功
+2020-06-03 15:00:03,186 INFO log.py[ln:15] 接到任务
+2020-06-03 15:00:03,186 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/dp/B06Y248ZRL', 'countryCode': 'DE', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 15:00:03,186 INFO log.py[ln:15] 开始处理 
+2020-06-03 15:00:06,338 INFO log.py[ln:15] 开始处理 
+2020-06-03 15:00:08,127 INFO log.py[ln:15] 接到任务
+2020-06-03 15:00:08,128 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/dp/B06Y248ZRL', 'countryCode': 'DE', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 15:00:08,128 INFO log.py[ln:15] 开始处理 
+2020-06-03 15:00:11,040 INFO log.py[ln:15] 开始处理 
+2020-06-03 15:06:33,532 INFO log.py[ln:15] 接到任务
+2020-06-03 15:06:33,533 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/dp/B06Y248ZRL', 'countryCode': 'DE', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 15:06:33,533 INFO log.py[ln:15] 开始处理 
+2020-06-03 15:06:43,905 INFO log.py[ln:15] 返回正确结果
+2020-06-03 15:06:45,031 INFO log.py[ln:15] 插入数据成功
+2020-06-03 15:06:47,279 INFO log.py[ln:15] 接到任务
+2020-06-03 15:06:47,279 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/dp/B06Y248ZRL', 'countryCode': 'DE', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 15:06:47,279 INFO log.py[ln:15] 开始处理 
+2020-06-03 15:06:54,312 INFO log.py[ln:15] 返回正确结果
+2020-06-03 15:06:54,417 INFO log.py[ln:15] 插入数据成功
+2020-06-03 15:06:55,940 INFO log.py[ln:15] 接到任务
+2020-06-03 15:06:55,940 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/dp/B06Y248ZRL', 'countryCode': 'DE', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 15:06:55,940 INFO log.py[ln:15] 开始处理 
+2020-06-03 15:07:01,652 INFO log.py[ln:15] 返回正确结果
+2020-06-03 15:07:03,432 INFO log.py[ln:15] 接到任务
+2020-06-03 15:07:03,432 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/dp/B06Y248ZRL', 'countryCode': 'DE', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 15:07:03,433 INFO log.py[ln:15] 开始处理 
+2020-06-03 15:07:09,224 INFO log.py[ln:15] 返回正确结果
+2020-06-03 15:07:09,361 INFO log.py[ln:15] 插入数据成功
+2020-06-03 15:08:08,849 INFO log.py[ln:15] 接到任务
+2020-06-03 15:08:08,849 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/dp/B06Y248ZRL', 'countryCode': 'DE', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 15:08:08,849 INFO log.py[ln:15] 开始处理 
+2020-06-03 15:08:11,649 INFO log.py[ln:15] 开始处理 
+2020-06-03 15:08:24,114 INFO log.py[ln:15] 接到任务
+2020-06-03 15:08:24,115 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/dp/B06Y248ZRL', 'countryCode': 'DE', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 15:08:24,115 INFO log.py[ln:15] 开始处理 
+2020-06-03 15:08:25,979 INFO log.py[ln:15] 开始处理 
+2020-06-03 15:08:43,541 INFO log.py[ln:15] 接到任务
+2020-06-03 15:08:43,541 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/dp/B06Y248ZRL', 'countryCode': 'DE', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 15:08:43,542 INFO log.py[ln:15] 开始处理 
+2020-06-03 15:08:47,493 INFO log.py[ln:15] 开始处理 
+2020-06-03 15:12:46,380 INFO log.py[ln:15] 接到任务
+2020-06-03 15:12:46,381 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/dp/B06Y248ZRL', 'countryCode': 'DE', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 15:12:46,381 INFO log.py[ln:15] 开始处理 
+2020-06-03 15:12:53,037 INFO log.py[ln:15] 返回正确结果
+2020-06-03 15:12:54,186 INFO log.py[ln:15] 插入数据成功
+2020-06-03 15:13:10,051 INFO log.py[ln:15] 接到任务
+2020-06-03 15:13:10,051 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/dp/B06Y248ZRL', 'countryCode': 'DE', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 15:13:10,051 INFO log.py[ln:15] 开始处理 
+2020-06-03 15:13:19,096 INFO log.py[ln:15] 返回正确结果
+2020-06-03 15:13:19,202 INFO log.py[ln:15] 插入数据成功
+2020-06-03 15:13:43,725 INFO log.py[ln:15] 接到任务
+2020-06-03 15:13:43,725 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/dp/B06Y248ZRL', 'countryCode': 'DE', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 15:13:43,726 INFO log.py[ln:15] 开始处理 
+2020-06-03 15:13:48,408 INFO log.py[ln:15] 返回正确结果
+2020-06-03 15:13:48,564 INFO log.py[ln:15] 插入数据成功
+2020-06-03 15:14:22,409 INFO log.py[ln:15] 接到任务
+2020-06-03 15:14:22,410 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/levaca-Womens-Pullover-Sweatshirts-Leggings/dp/B07XNWKYYK/ref=redir_mobile_desktop?ie=UTF8&aaxitk=OONmzBprpSjiMfm8YFPamA&hsa_cr_id=4684245910101&ref_=sb_s_sparkle', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 15:14:22,410 INFO log.py[ln:15] 开始处理 
+2020-06-03 15:14:26,813 INFO log.py[ln:15] 返回正确结果
+2020-06-03 15:14:26,909 INFO log.py[ln:15] 插入数据成功
+2020-06-03 15:16:12,268 INFO log.py[ln:15] 接到任务
+2020-06-03 15:16:12,268 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/levaca-Womens-Pullover-Sweatshirts-Leggings/dp/B07XNWKYYK/ref=redir_mobile_desktop?ie=UTF8&aaxitk=OONmzBprpSjiMfm8YFPamA&hsa_cr_id=4684245910101&ref_=sb_s_sparkle', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 15:16:12,269 INFO log.py[ln:15] 开始处理 
+2020-06-03 15:16:15,083 INFO log.py[ln:15] 返回正确结果
+2020-06-03 15:16:54,103 INFO log.py[ln:15] 接到任务
+2020-06-03 15:16:54,104 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/dp/B06Y248ZRL', 'countryCode': 'DE', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 15:16:54,104 INFO log.py[ln:15] 开始处理 
+2020-06-03 15:17:03,938 INFO log.py[ln:15] 返回正确结果
+2020-06-03 15:17:19,124 INFO log.py[ln:15] 插入数据成功
+2020-06-03 15:17:58,739 INFO log.py[ln:15] 接到任务
+2020-06-03 15:17:58,740 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/dp/B06Y248ZRL', 'countryCode': 'DE', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 15:17:58,740 INFO log.py[ln:15] 开始处理 
+2020-06-03 15:18:02,133 INFO log.py[ln:15] 开始处理 
+2020-06-03 15:19:03,575 INFO log.py[ln:15] 接到任务
+2020-06-03 15:19:03,576 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/dp/B06Y248ZRL', 'countryCode': 'DE', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 15:19:03,576 INFO log.py[ln:15] 开始处理 
+2020-06-03 15:19:10,366 INFO log.py[ln:15] 返回正确结果
+2020-06-03 15:19:10,469 INFO log.py[ln:15] 插入数据成功
+2020-06-03 15:19:22,053 INFO log.py[ln:15] 接到任务
+2020-06-03 15:19:22,053 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/dp/B06Y248ZRL', 'countryCode': 'DE', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 15:19:22,053 INFO log.py[ln:15] 开始处理 
+2020-06-03 15:19:28,785 INFO log.py[ln:15] 返回正确结果
+2020-06-03 15:19:28,869 INFO log.py[ln:15] 插入数据成功
+2020-06-03 15:20:14,806 INFO log.py[ln:15] 接到任务
+2020-06-03 15:20:14,806 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/dp/B06Y248ZRL', 'countryCode': 'DE', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 15:20:14,807 INFO log.py[ln:15] 开始处理 
+2020-06-03 15:20:19,515 INFO log.py[ln:15] 返回正确结果
+2020-06-03 15:20:19,647 INFO log.py[ln:15] 插入数据成功
+2020-06-03 15:21:04,106 INFO log.py[ln:15] 接到任务
+2020-06-03 15:21:04,106 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.cn/dp/B07B6FZ682?smid=A26HDXW89ZT98L&ref_=Oct_CBBBCard_dsk_asin5&pf_rd_r=BQ4AH8DCW1Y0P0ATH6HM&pf_rd_p=3f974805-ea47-43ca-9f36-30f77be0fad9&pf_rd_m=A1AJ19PSB66TGU&pf_rd_s=desktop-3', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 15:21:04,107 INFO log.py[ln:15] 开始处理 
+2020-06-03 15:21:08,427 INFO log.py[ln:15] 返回正确结果
+2020-06-03 15:21:08,535 INFO log.py[ln:15] 插入数据成功
+2020-06-03 15:23:40,593 INFO log.py[ln:15] 接到任务
+2020-06-03 15:23:40,593 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.cn/dp/B07B6FZ682?smid=A26HDXW89ZT98L&ref_=Oct_CBBBCard_dsk_asin5&pf_rd_r=BQ4AH8DCW1Y0P0ATH6HM&pf_rd_p=3f974805-ea47-43ca-9f36-30f77be0fad9&pf_rd_m=A1AJ19PSB66TGU&pf_rd_s=desktop-3', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 15:23:40,594 INFO log.py[ln:15] 开始处理 
+2020-06-03 15:23:44,002 INFO log.py[ln:15] 开始处理 
+2020-06-03 15:23:47,836 INFO log.py[ln:15] 开始处理 
+2020-06-03 15:23:59,026 INFO log.py[ln:15] 接到任务
+2020-06-03 15:23:59,026 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.cn/dp/B07B6FZ682?smid=A26HDXW89ZT98L&ref_=Oct_CBBBCard_dsk_asin5&pf_rd_r=BQ4AH8DCW1Y0P0ATH6HM&pf_rd_p=3f974805-ea47-43ca-9f36-30f77be0fad9&pf_rd_m=A1AJ19PSB66TGU&pf_rd_s=desktop-3', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 15:23:59,027 INFO log.py[ln:15] 开始处理 
+2020-06-03 15:24:03,239 INFO log.py[ln:15] 返回正确结果
+2020-06-03 15:24:03,333 INFO log.py[ln:15] 插入数据成功
+2020-06-03 15:24:48,635 INFO log.py[ln:15] 接到任务
+2020-06-03 15:24:48,635 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/dp/B06Y248ZRL', 'countryCode': 'DE', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 15:24:48,636 INFO log.py[ln:15] 开始处理 
+2020-06-03 15:24:54,293 INFO log.py[ln:15] 返回正确结果
+2020-06-03 15:26:20,805 INFO log.py[ln:15] 接到任务
+2020-06-03 15:26:20,806 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/dp/B06Y248ZRL', 'countryCode': 'DE', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 15:26:20,806 INFO log.py[ln:15] 开始处理 
+2020-06-03 15:26:28,212 INFO log.py[ln:15] 返回正确结果
+2020-06-03 15:26:41,703 INFO log.py[ln:15] 接到任务
+2020-06-03 15:26:41,703 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/dp/B06Y248ZRL', 'countryCode': 'DE', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 15:26:41,703 INFO log.py[ln:15] 开始处理 
+2020-06-03 15:26:48,079 INFO log.py[ln:15] 接到任务
+2020-06-03 15:26:48,079 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/dp/B06Y248ZRL', 'countryCode': 'DE', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 15:26:48,080 INFO log.py[ln:15] 开始处理 
+2020-06-03 15:26:52,475 INFO log.py[ln:15] 返回正确结果
+2020-06-03 15:26:52,553 INFO log.py[ln:15] 插入数据成功
+2020-06-03 15:27:03,859 INFO log.py[ln:15] 接到任务
+2020-06-03 15:27:03,859 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/dp/B06Y248ZRL', 'countryCode': 'DE', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 15:27:03,859 INFO log.py[ln:15] 开始处理 
+2020-06-03 15:27:10,323 INFO log.py[ln:15] 返回正确结果
+2020-06-03 15:27:11,501 INFO log.py[ln:15] 插入数据成功
+2020-06-03 15:39:14,429 INFO log.py[ln:15] 接到任务
+2020-06-03 15:39:14,430 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/dp/B06Y248ZRL', 'countryCode': 'DE', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 15:39:14,430 INFO log.py[ln:15] 开始处理 
+2020-06-03 15:39:18,550 INFO log.py[ln:15] 返回正确结果
+2020-06-03 15:39:18,688 INFO log.py[ln:15] 插入数据成功
+2020-06-03 15:42:17,948 INFO log.py[ln:15] 接到任务
+2020-06-03 15:42:17,948 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/dp/B06Y248ZRL', 'countryCode': 'DE', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 15:42:17,948 INFO log.py[ln:15] 开始处理 
+2020-06-03 15:42:23,653 INFO log.py[ln:15] 返回正确结果
+2020-06-03 15:42:23,776 INFO log.py[ln:15] 插入数据成功
+2020-06-03 15:43:50,754 INFO log.py[ln:15] 接到任务
+2020-06-03 15:43:50,754 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/dp/B06Y248ZRL', 'countryCode': 'DE', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 15:43:50,754 INFO log.py[ln:15] 开始处理 
+2020-06-03 15:43:55,281 INFO log.py[ln:15] 返回正确结果
+2020-06-03 15:43:55,416 INFO log.py[ln:15] 插入数据成功
+2020-06-03 15:45:29,465 INFO log.py[ln:15] 接到任务
+2020-06-03 15:45:29,466 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/Trinkflasche-uberBottle-Wasserflasche-Sportflasche-Fitnessstudio/dp/B01F2HWLAC/ref=pd_sbs_200_1/257-6776820-8525013?_encoding=UTF8&pd_rd_i=B01F2HWLAC&pd_rd_r=77102f93-1584-435e-8b88-75b0f7323d5d&pd_rd_w=5QhvA&pd_rd_wg=t2sqE&pf_rd_p=42bf0ad8-ce6f-4127-a2f0-106727020a41&pf_rd_r=DCJT2J4NHVAQK7T17F1B&psc=1&refRID=DCJT2J4NHVAQK7T17F1B', 'countryCode': 'DE', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 15:45:29,466 INFO log.py[ln:15] 开始处理 
+2020-06-03 15:45:35,873 INFO log.py[ln:15] 返回正确结果
+2020-06-03 15:45:36,002 INFO log.py[ln:15] 插入数据成功
+2020-06-03 15:47:20,630 INFO log.py[ln:15] 接到任务
+2020-06-03 15:47:20,631 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/Trinkflasche-uberBottle-Wasserflasche-Sportflasche-Fitnessstudio/dp/B01F2HWLAC/ref=pd_sbs_200_1/257-6776820-8525013?_encoding=UTF8&pd_rd_i=B01F2HWLAC&pd_rd_r=77102f93-1584-435e-8b88-75b0f7323d5d&pd_rd_w=5QhvA&pd_rd_wg=t2sqE&pf_rd_p=42bf0ad8-ce6f-4127-a2f0-106727020a41&pf_rd_r=DCJT2J4NHVAQK7T17F1B&psc=1&refRID=DCJT2J4NHVAQK7T17F1B', 'countryCode': '', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 15:47:20,631 INFO log.py[ln:15] 开始处理 
+2020-06-03 15:47:24,863 INFO log.py[ln:15] 返回正确结果
+2020-06-03 15:47:24,966 INFO log.py[ln:15] 插入数据成功
+2020-06-03 15:48:10,992 INFO log.py[ln:15] 接到任务
+2020-06-03 15:48:10,993 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/dp/B07NYSR5TH/ref=sspa_dk_detail_4?psc=1&pd_rd_i=B07NYSR5TH&pd_rd_w=1vnbP&pf_rd_p=92f24b16-a91c-4592-9aed-95f14d3fd69a&pd_rd_wg=gjXKi&pf_rd_r=9EG461564CN6NK17JT9V&pd_rd_r=48cb723d-6dac-4551-84a2-9a14aad66cf1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyUEhTU0U1NjlTMkxEJmVuY3J5cHRlZElkPUEwMTU2OTAyM0hGQlRVTzNMVzkzTSZlbmNyeXB0ZWRBZElkPUEwMDQzMTQwM0dFS1FDTUpSR1NRQiZ3aWRnZXROYW1lPXNwX2RldGFpbF90aGVtYXRpYyZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=', 'countryCode': '', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 15:48:10,993 INFO log.py[ln:15] 开始处理 
+2020-06-03 15:48:17,273 INFO log.py[ln:15] 返回正确结果
+2020-06-03 15:48:17,400 INFO log.py[ln:15] 插入数据成功
+2020-06-03 15:52:22,093 INFO log.py[ln:15] 接到任务
+2020-06-03 15:52:22,093 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/720%C2%B0DGREE-Edelstahl-Trinkflasche-noLimit-Schraubverschluss/dp/B0845SRBR4/ref=cts_sp_2_vtp', 'countryCode': '', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 15:52:22,094 INFO log.py[ln:15] 开始处理 
+2020-06-03 15:52:26,978 INFO log.py[ln:15] 返回正确结果
+2020-06-03 15:52:27,086 INFO log.py[ln:15] 插入数据成功
+2020-06-03 15:55:34,197 INFO log.py[ln:15] 接到任务
+2020-06-03 15:55:34,198 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/720%C2%B0DGREE-Edelstahl-Trinkflasche-noLimit-Schraubverschluss/dp/B0845SRBR4/ref=cts_sp_2_vtp', 'countryCode': 'DE', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 15:55:34,198 INFO log.py[ln:15] 开始处理 
+2020-06-03 15:55:37,646 INFO log.py[ln:15] 返回正确结果
+2020-06-03 15:55:37,783 INFO log.py[ln:15] 插入数据成功
+2020-06-03 15:57:53,894 INFO log.py[ln:15] 接到任务
+2020-06-03 15:57:53,894 INFO log.py[ln:15] {'countryCode': 'DE', 'key': '1da89e45de65cf4c3c580c15c3d6a8d5', 'language': 'zh_CN', 'timeout': 300, 'type': 'amazonDetail', 'url': 'https://www.amazon.de/Trinkflasche-uberBottle-Wasserflasche-Sportflasche-Fitnessstudio/dp/B01F2HWLAC/ref=pd_sbs_200_1/257-6776820-8525013?_encoding=UTF8'}
+2020-06-03 15:57:53,895 INFO log.py[ln:15] 开始处理 1da89e45de65cf4c3c580c15c3d6a8d5
+2020-06-03 15:57:58,271 INFO log.py[ln:15] 返回正确结果
+2020-06-03 15:57:58,408 INFO log.py[ln:15] 插入数据成功
+2020-06-03 15:59:07,223 INFO log.py[ln:15] 接到任务
+2020-06-03 15:59:07,224 INFO log.py[ln:15] {'countryCode': 'DE', 'key': 'd4fcff6eb7858932fe90aeceec576270', 'language': 'zh_TW', 'timeout': 300, 'type': 'amazonDetail', 'url': 'https://www.amazon.de/dp/B06Y248ZRL'}
+2020-06-03 15:59:07,224 INFO log.py[ln:15] 开始处理 d4fcff6eb7858932fe90aeceec576270
+2020-06-03 15:59:12,883 INFO log.py[ln:15] 返回正确结果
+2020-06-03 15:59:12,982 INFO log.py[ln:15] 插入数据成功
+2020-06-03 16:00:44,323 INFO log.py[ln:15] 接到任务
+2020-06-03 16:00:44,323 INFO log.py[ln:15] {'countryCode': 'DE', 'key': 'd4fcff6eb7858932fe90aeceec576270', 'language': 'zh_CN', 'timeout': 300, 'type': 'amazonDetail', 'url': 'https://www.amazon.de/720%C2%B0DGREE-Edelstahl-Trinkflasche-noLimit-Schraubverschluss/dp/B0845SRBR4/ref=cts_sp_2_vtp'}
+2020-06-03 16:00:44,324 INFO log.py[ln:15] 开始处理 d4fcff6eb7858932fe90aeceec576270
+2020-06-03 16:00:49,566 INFO log.py[ln:15] 返回正确结果
+2020-06-03 16:00:49,702 INFO log.py[ln:15] 插入数据成功
+2020-06-03 16:03:20,372 INFO log.py[ln:15] 接到任务
+2020-06-03 16:03:20,372 INFO log.py[ln:15] {'countryCode': 'DE', 'key': 'd4fcff6eb7858932fe90aeceec576270', 'language': 'zh_CN', 'timeout': 300, 'type': 'amazonDetail', 'url': 'https://www.amazon.de/720%C2%B0DGREE-Edelstahl-Trinkflasche-noLimit-Schraubverschluss/dp/B0845SRBR4/ref=cts_sp_2_vtp'}
+2020-06-03 16:03:20,373 INFO log.py[ln:15] 开始处理 d4fcff6eb7858932fe90aeceec576270
+2020-06-03 16:03:26,130 INFO log.py[ln:15] 返回正确结果
+2020-06-03 16:03:26,231 INFO log.py[ln:15] 插入数据成功
+2020-06-03 16:09:35,854 INFO log.py[ln:15] 接到任务
+2020-06-03 16:09:35,854 INFO log.py[ln:15] {'countryCode': 'DE', 'key': 'd4fcff6eb7858932fe90aeceec576270', 'language': 'zh_CN', 'timeout': 300, 'type': 'amazonDetail', 'url': 'https://www.amazon.de/720%C2%B0DGREE-Edelstahl-Trinkflasche-noLimit-Isolierflasche/dp/B01GW5EXTA/ref=cts_sp_2_vtp'}
+2020-06-03 16:09:35,854 INFO log.py[ln:15] 开始处理 d4fcff6eb7858932fe90aeceec576270
+2020-06-03 16:09:40,166 INFO log.py[ln:15] 返回正确结果
+2020-06-03 16:09:40,273 INFO log.py[ln:15] 插入数据成功
+2020-06-03 16:09:50,292 INFO log.py[ln:15] 接到任务
+2020-06-03 16:09:50,293 INFO log.py[ln:15] {'countryCode': 'DE', 'key': 'd4fcff6eb7858932fe90aeceec576270', 'language': 'zh_CN', 'timeout': 300, 'type': 'amazonDetail', 'url': 'https://www.amazon.de/720%C2%B0DGREE-Edelstahl-Trinkflasche-noLimit-Isolierflasche/dp/B01GW5EXTA/ref=cts_sp_2_vtp'}
+2020-06-03 16:09:50,293 INFO log.py[ln:15] 开始处理 d4fcff6eb7858932fe90aeceec576270
+2020-06-03 16:09:54,403 INFO log.py[ln:15] 返回正确结果
+2020-06-03 16:09:54,503 INFO log.py[ln:15] 插入数据成功
+2020-06-03 16:12:03,231 INFO log.py[ln:15] 接到任务
+2020-06-03 16:12:03,231 INFO log.py[ln:15] {'countryCode': 'DE', 'key': 'd4fcff6eb7858932fe90aeceec576270', 'language': 'zh_CN', 'timeout': 300, 'type': 'amazonDetail', 'url': 'https://www.amazon.de/720%C2%B0DGREE-Edelstahl-Trinkflasche-noLimit-Isolierflasche/dp/B01GW5EXTA/ref=cts_sp_2_vtp'}
+2020-06-03 16:12:03,231 INFO log.py[ln:15] 开始处理 d4fcff6eb7858932fe90aeceec576270
+2020-06-03 16:12:08,138 INFO log.py[ln:15] 返回正确结果
+2020-06-03 16:12:08,271 INFO log.py[ln:15] 插入数据成功
+2020-06-03 16:13:17,223 INFO log.py[ln:15] 接到任务
+2020-06-03 16:13:17,223 INFO log.py[ln:15] {'countryCode': 'DE', 'key': 'af43c9f40e3404161194ceffc71b341c', 'language': 'zh_CN', 'timeout': 300, 'type': 'amazonDetail', 'url': 'https://www.amazon.de/720°DGREE-Trinkflasche-uberBottle-Wasser-Flasche-Fitnessstudio/dp/B07GR5MSKD/ref=cts_sp_3_vtp'}
+2020-06-03 16:13:17,223 INFO log.py[ln:15] 开始处理 af43c9f40e3404161194ceffc71b341c
+2020-06-03 16:13:24,454 INFO log.py[ln:15] 返回正确结果
+2020-06-03 16:13:24,578 INFO log.py[ln:15] 插入数据成功
+2020-06-03 16:14:15,765 INFO log.py[ln:15] 接到任务
+2020-06-03 16:14:15,765 INFO log.py[ln:15] {'countryCode': 'DE', 'key': 'af43c9f40e3404161194ceffc71b341c', 'language': 'zh_CN', 'timeout': 300, 'type': 'amazonDetail', 'url': 'https://www.amazon.de/720°DGREE-Trinkflasche-uberBottle-Wasser-Flasche-Fitnessstudio/dp/B07GR5MSKD/ref=cts_sp_3_vtp', 'isproxy': True}
+2020-06-03 16:14:15,766 INFO log.py[ln:15] 开始处理 af43c9f40e3404161194ceffc71b341c
+2020-06-03 16:14:18,572 INFO log.py[ln:15] 返回正确结果
+2020-06-03 16:14:18,677 INFO log.py[ln:15] 插入数据成功
+2020-06-03 16:15:52,319 INFO log.py[ln:15] 接到任务
+2020-06-03 16:15:52,319 INFO log.py[ln:15] {'countryCode': 'DE', 'key': 'af43c9f40e3404161194ceffc71b341c', 'language': 'zh_CN', 'timeout': 300, 'type': 'amazonDetail', 'url': 'https://www.amazon.de/720°DGREE-Trinkflasche-uberBottle-Wasser-Flasche-Fitnessstudio/dp/B07GR5MSKD/ref=cts_sp_3_vtp'}
+2020-06-03 16:15:52,320 INFO log.py[ln:15] 开始处理 af43c9f40e3404161194ceffc71b341c
+2020-06-03 16:15:58,505 INFO log.py[ln:15] 返回正确结果
+2020-06-03 16:15:58,632 INFO log.py[ln:15] 插入数据成功
+2020-06-03 16:17:02,854 INFO log.py[ln:15] 接到任务
+2020-06-03 16:17:02,854 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.cn/dp/B07B6FZ682?smid=A26HDXW89ZT98L&ref_=Oct_CBBBCard_dsk_asin5&pf_rd_r=BQ4AH8DCW1Y0P0ATH6HM&pf_rd_p=3f974805-ea47-43ca-9f36-30f77be0fad9&pf_rd_m=A1AJ19PSB66TGU&pf_rd_s=desktop-3', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 16:17:02,854 INFO log.py[ln:15] 开始处理 
+2020-06-03 16:17:05,656 INFO log.py[ln:15] 返回正确结果
+2020-06-03 16:17:05,766 INFO log.py[ln:15] 插入数据成功
+2020-06-03 16:17:13,979 INFO log.py[ln:15] 接到任务
+2020-06-03 16:17:13,979 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.cn/dp/B07B6FZ682?smid=A26HDXW89ZT98L&ref_=Oct_CBBBCard_dsk_asin5&pf_rd_r=BQ4AH8DCW1Y0P0ATH6HM&pf_rd_p=3f974805-ea47-43ca-9f36-30f77be0fad9&pf_rd_m=A1AJ19PSB66TGU&pf_rd_s=desktop-3', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': True}
+2020-06-03 16:17:13,979 INFO log.py[ln:15] 开始处理 
+2020-06-03 16:17:16,489 INFO log.py[ln:15] 开始处理 
+2020-06-03 16:17:16,912 INFO log.py[ln:15] 开始处理 
+2020-06-03 16:17:19,793 INFO log.py[ln:15] 返回正确结果
+2020-06-03 16:17:19,864 INFO log.py[ln:15] 插入数据成功
+2020-06-03 16:17:22,981 INFO log.py[ln:15] 接到任务
+2020-06-03 16:17:22,981 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.cn/dp/B07B6FZ682?smid=A26HDXW89ZT98L&ref_=Oct_CBBBCard_dsk_asin5&pf_rd_r=BQ4AH8DCW1Y0P0ATH6HM&pf_rd_p=3f974805-ea47-43ca-9f36-30f77be0fad9&pf_rd_m=A1AJ19PSB66TGU&pf_rd_s=desktop-3', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': True}
+2020-06-03 16:17:22,981 INFO log.py[ln:15] 开始处理 
+2020-06-03 16:17:23,439 INFO log.py[ln:15] 开始处理 
+2020-06-03 16:17:26,753 INFO log.py[ln:15] 返回正确结果
+2020-06-03 16:17:26,864 INFO log.py[ln:15] 插入数据成功
+2020-06-03 16:18:31,319 INFO log.py[ln:15] 接到任务
+2020-06-03 16:18:31,319 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/720°DGREE-Trinkflasche-uberBottle-Wasser-Flasche-Fitnessstudio/dp/B07GR5MSKD/ref=cts_sp_3_vtp', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': True}
+2020-06-03 16:18:31,320 INFO log.py[ln:15] 开始处理 
+2020-06-03 16:18:38,777 INFO log.py[ln:15] 开始处理 
+2020-06-03 16:18:42,511 INFO log.py[ln:15] 返回正确结果
+2020-06-03 16:18:43,598 INFO log.py[ln:15] 插入数据成功
+2020-06-03 16:20:52,145 INFO log.py[ln:15] 接到任务
+2020-06-03 16:20:52,146 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/720°DGREE-Trinkflasche-uberBottle-Wasser-Flasche-Fitnessstudio/dp/B07GR5MSKD/ref=cts_sp_3_vtp', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 16:20:52,146 INFO log.py[ln:15] 开始处理 
+2020-06-03 16:20:56,028 INFO log.py[ln:15] 返回正确结果
+2020-06-03 16:20:56,129 INFO log.py[ln:15] 插入数据成功
+2020-06-03 16:23:03,562 INFO log.py[ln:15] 接到任务
+2020-06-03 16:23:03,562 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/720°DGREE-Trinkflasche-uberBottle-Wasser-Flasche-Fitnessstudio/dp/B07GR5MSKD/ref=cts_sp_3_vtp', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 16:23:03,562 INFO log.py[ln:15] 开始处理 
+2020-06-03 16:23:07,867 INFO log.py[ln:15] 返回正确结果
+2020-06-03 16:23:09,048 INFO log.py[ln:15] 插入数据成功
+2020-06-03 16:26:49,451 INFO log.py[ln:15] 接到任务
+2020-06-03 16:26:49,451 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/720%C2%B0DGREE-Trinkflasche-uberBottle-Wasser-Flasche-Fitnessstudio/dp/B07GR5MSKD/ref=cts_sp_3_vtp', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 16:26:49,451 INFO log.py[ln:15] 开始处理 
+2020-06-03 16:26:53,232 INFO log.py[ln:15] 返回正确结果
+2020-06-03 16:26:53,364 INFO log.py[ln:15] 插入数据成功
+2020-06-03 16:27:02,187 INFO log.py[ln:15] 接到任务
+2020-06-03 16:27:02,187 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/720%C2%B0DGREE-Trinkflasche-uberBottle-Wasser-Flasche-Fitnessstudio/dp/B07GR5MSKD/ref=cts_sp_3_vtp', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 16:27:02,188 INFO log.py[ln:15] 开始处理 
+2020-06-03 16:27:05,750 INFO log.py[ln:15] 返回正确结果
+2020-06-03 16:27:05,858 INFO log.py[ln:15] 插入数据成功
+2020-06-03 16:27:56,289 INFO log.py[ln:15] 接到任务
+2020-06-03 16:27:56,289 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/720%C2%B0DGREE-Trinkflasche-uberBottle-Wasser-Flasche-Fitnessstudio/dp/B07GR5MSKD/ref=cts_sp_3_vtp', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 16:27:56,290 INFO log.py[ln:15] 开始处理 
+2020-06-03 16:27:59,819 INFO log.py[ln:15] 返回正确结果
+2020-06-03 16:27:59,945 INFO log.py[ln:15] 插入数据成功
+2020-06-03 16:40:58,419 INFO log.py[ln:15] 接到任务
+2020-06-03 16:40:58,419 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/720%C2%B0DGREE-Trinkflasche-uberBottle-Wasser-Flasche-Fitnessstudio/dp/B07GR5MSKD/ref=cts_sp_3_vtp', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 16:40:58,419 INFO log.py[ln:15] 开始处理 
+2020-06-03 16:41:01,795 INFO log.py[ln:15] 返回正确结果
+2020-06-03 16:41:01,948 INFO log.py[ln:15] 插入数据成功
+2020-06-03 16:41:30,268 INFO log.py[ln:15] 接到任务
+2020-06-03 16:41:30,268 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/720%C2%B0DGREE-Trinkflasche-uberBottle-Wasser-Flasche-Fitnessstudio/dp/B07GR5MSKD/ref=cts_sp_3_vtp', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': True}
+2020-06-03 16:41:30,268 INFO log.py[ln:15] 开始处理 
+2020-06-03 16:41:32,642 INFO log.py[ln:15] 返回正确结果
+2020-06-03 16:41:32,708 INFO log.py[ln:15] 插入数据成功
+2020-06-03 16:41:34,820 INFO log.py[ln:15] 接到任务
+2020-06-03 16:41:34,820 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/720%C2%B0DGREE-Trinkflasche-uberBottle-Wasser-Flasche-Fitnessstudio/dp/B07GR5MSKD/ref=cts_sp_3_vtp', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': True}
+2020-06-03 16:41:34,820 INFO log.py[ln:15] 开始处理 
+2020-06-03 16:41:35,205 INFO log.py[ln:15] 开始处理 
+2020-06-03 16:41:39,916 INFO log.py[ln:15] 返回正确结果
+2020-06-03 16:41:40,028 INFO log.py[ln:15] 插入数据成功
+2020-06-03 16:41:41,286 INFO log.py[ln:15] 接到任务
+2020-06-03 16:41:41,286 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.de/720%C2%B0DGREE-Trinkflasche-uberBottle-Wasser-Flasche-Fitnessstudio/dp/B07GR5MSKD/ref=cts_sp_3_vtp', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': True}
+2020-06-03 16:41:41,286 INFO log.py[ln:15] 开始处理 
+2020-06-03 16:41:41,679 INFO log.py[ln:15] 开始处理 
+2020-06-03 16:41:46,140 INFO log.py[ln:15] 返回正确结果
+2020-06-03 16:41:46,224 INFO log.py[ln:15] 插入数据成功
+2020-06-03 17:46:33,982 INFO log.py[ln:15] 接到任务
+2020-06-03 17:46:33,982 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/dp/B07ZYPBYHL?ref=myi_title_dp', 'countryCode': 'CN', 'language': '', 'key': ''}
+2020-06-03 17:46:33,983 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:46:34,625 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:46:38,303 INFO log.py[ln:15] 返回正确结果
+2020-06-03 17:46:38,436 INFO log.py[ln:15] 插入数据成功
+2020-06-03 17:47:02,678 INFO log.py[ln:15] 接到任务
+2020-06-03 17:47:02,678 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/dp/B07ZYPBYHL?ref=myi_title_dp', 'countryCode': 'CN', 'language': '', 'key': ''}
+2020-06-03 17:47:02,679 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:47:03,507 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:47:06,203 INFO log.py[ln:15] 返回正确结果
+2020-06-03 17:47:06,284 INFO log.py[ln:15] 插入数据成功
+2020-06-03 17:47:12,310 INFO log.py[ln:15] 接到任务
+2020-06-03 17:47:12,310 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/dp/B07ZYPBYHL?ref=myi_title_dp', 'countryCode': 'CN', 'language': '', 'key': ''}
+2020-06-03 17:47:12,311 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:47:12,913 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:47:15,646 INFO log.py[ln:15] 返回正确结果
+2020-06-03 17:47:16,824 INFO log.py[ln:15] 插入数据成功
+2020-06-03 17:51:46,855 INFO log.py[ln:15] 接到任务
+2020-06-03 17:51:46,856 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/dp/B079KQCLM3/ref=sspa_dk_detail_5?psc=1&pd_rd_i=B079KQCLM3&pd_rd_w=4uzDy&pf_rd_p=48d372c1-f7e1-4b8b-9d02-4bd86f5158c5&pd_rd_wg=gtEr5&pf_rd_r=XXB3M5CPJBKGW1EHWMYM&pd_rd_r=4797cecb-9095-43fc-b0d9-2419eb52e9c7&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzTE9GOE5CM01TOUomZW5jcnlwdGVkSWQ9QTAxMzk0MjAyUDhPNjNCWUNVTUQwJmVuY3J5cHRlZEFkSWQ9QTA5ODUwOTMzRkpQNEFCRFgzRFdNJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==', 'countryCode': 'CN', 'language': '', 'key': ''}
+2020-06-03 17:51:46,856 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:51:47,487 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:51:47,917 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:51:48,291 INFO log.py[ln:15] 返回正确结果
+2020-06-03 17:51:48,398 INFO log.py[ln:15] 请求出错
+2020-06-03 17:51:48,398 INFO log.py[ln:15] 插入数据成功
+2020-06-03 17:52:04,560 INFO log.py[ln:15] 接到任务
+2020-06-03 17:52:04,561 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/dp/B079KQCLM3/ref=sspa_dk_detail_5?psc=1&pd_rd_i=B079KQCLM3&pd_rd_w=4uzDy&pf_rd_p=48d372c1-f7e1-4b8b-9d02-4bd86f5158c5&pd_rd_wg=gtEr5&pf_rd_r=XXB3M5CPJBKGW1EHWMYM&pd_rd_r=4797cecb-9095-43fc-b0d9-2419eb52e9c7&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzTE9GOE5CM01TOUomZW5jcnlwdGVkSWQ9QTAxMzk0MjAyUDhPNjNCWUNVTUQwJmVuY3J5cHRlZEFkSWQ9QTA5ODUwOTMzRkpQNEFCRFgzRFdNJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==', 'countryCode': 'CN', 'language': '', 'key': ''}
+2020-06-03 17:52:04,561 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:52:05,181 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:52:07,851 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:52:08,291 INFO log.py[ln:15] 返回正确结果
+2020-06-03 17:52:08,397 INFO log.py[ln:15] 请求出错
+2020-06-03 17:52:08,397 INFO log.py[ln:15] 插入数据成功
+2020-06-03 17:52:11,286 INFO log.py[ln:15] 接到任务
+2020-06-03 17:52:11,286 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/dp/B079KQCLM3/ref=sspa_dk_detail_5?psc=1&pd_rd_i=B079KQCLM3&pd_rd_w=4uzDy&pf_rd_p=48d372c1-f7e1-4b8b-9d02-4bd86f5158c5&pd_rd_wg=gtEr5&pf_rd_r=XXB3M5CPJBKGW1EHWMYM&pd_rd_r=4797cecb-9095-43fc-b0d9-2419eb52e9c7&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzTE9GOE5CM01TOUomZW5jcnlwdGVkSWQ9QTAxMzk0MjAyUDhPNjNCWUNVTUQwJmVuY3J5cHRlZEFkSWQ9QTA5ODUwOTMzRkpQNEFCRFgzRFdNJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==', 'countryCode': 'CN', 'language': '', 'key': ''}
+2020-06-03 17:52:11,286 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:52:13,002 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:52:15,187 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:52:15,593 INFO log.py[ln:15] 返回正确结果
+2020-06-03 17:52:15,658 INFO log.py[ln:15] 请求出错
+2020-06-03 17:52:15,658 INFO log.py[ln:15] 插入数据成功
+2020-06-03 17:52:50,316 INFO log.py[ln:15] 接到任务
+2020-06-03 17:52:50,316 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/dp/B079KQCLM3/ref=sspa_dk_detail_5?psc=1&pd_rd_i=B079KQCLM3&pd_rd_w=4uzDy&pf_rd_p=48d372c1-f7e1-4b8b-9d02-4bd86f5158c5&pd_rd_wg=gtEr5&pf_rd_r=XXB3M5CPJBKGW1EHWMYM&pd_rd_r=4797cecb-9095-43fc-b0d9-2419eb52e9c7&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzTE9GOE5CM01TOUomZW5jcnlwdGVkSWQ9QTAxMzk0MjAyUDhPNjNCWUNVTUQwJmVuY3J5cHRlZEFkSWQ9QTA5ODUwOTMzRkpQNEFCRFgzRFdNJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==', 'countryCode': 'CN', 'language': '', 'key': ''}
+2020-06-03 17:52:50,317 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:52:52,415 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:52:54,973 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:52:55,416 INFO log.py[ln:15] 返回正确结果
+2020-06-03 17:52:55,525 INFO log.py[ln:15] 请求出错
+2020-06-03 17:52:55,525 INFO log.py[ln:15] 插入数据成功
+2020-06-03 17:54:03,465 INFO log.py[ln:15] 接到任务
+2020-06-03 17:54:03,466 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/dp/B079KQCLM3/ref=sspa_dk_detail_5?psc=1&pd_rd_i=B079KQCLM3&pd_rd_w=4uzDy&pf_rd_p=48d372c1-f7e1-4b8b-9d02-4bd86f5158c5&pd_rd_wg=gtEr5&pf_rd_r=XXB3M5CPJBKGW1EHWMYM&pd_rd_r=4797cecb-9095-43fc-b0d9-2419eb52e9c7&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzTE9GOE5CM01TOUomZW5jcnlwdGVkSWQ9QTAxMzk0MjAyUDhPNjNCWUNVTUQwJmVuY3J5cHRlZEFkSWQ9QTA5ODUwOTMzRkpQNEFCRFgzRFdNJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==', 'countryCode': 'CN', 'language': '', 'key': ''}
+2020-06-03 17:54:03,466 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:54:04,704 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:54:07,745 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:54:08,176 INFO log.py[ln:15] 返回正确结果
+2020-06-03 17:54:08,265 INFO log.py[ln:15] 请求出错
+2020-06-03 17:54:08,266 INFO log.py[ln:15] 插入数据成功
+2020-06-03 17:55:06,373 INFO log.py[ln:15] 接到任务
+2020-06-03 17:55:06,374 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/dp/B07TBWLS4T/ref=sspa_dk_detail_2?psc=1&pd_rd_i=B07TBWLS4T&pd_rd_w=aAzwf&pf_rd_p=48d372c1-f7e1-4b8b-9d02-4bd86f5158c5&pd_rd_wg=lvbRc&pf_rd_r=FYSKFSCNBAPGVKV376PV&pd_rd_r=dc8a340f-b7fc-424e-91c9-aacbadac9500&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFOMVFDS05TSTFQN1kmZW5jcnlwdGVkSWQ9QTA1OTk4MjkyVzRGUDNIN0dMVEVXJmVuY3J5cHRlZEFkSWQ9QTA5OTk3ODMyS1lCSENYRDBKM1EyJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==', 'countryCode': 'CN', 'language': '', 'key': ''}
+2020-06-03 17:55:06,374 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:55:07,509 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:55:13,602 INFO log.py[ln:15] 返回正确结果
+2020-06-03 17:55:13,708 INFO log.py[ln:15] 插入数据成功
+2020-06-03 17:56:02,564 INFO log.py[ln:15] 接到任务
+2020-06-03 17:56:02,564 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/dp/B07TBWLS4T/ref=sspa_dk_detail_2?psc=1&pd_rd_i=B07TBWLS4T&pd_rd_w=aAzwf&pf_rd_p=48d372c1-f7e1-4b8b-9d02-4bd86f5158c5&pd_rd_wg=lvbRc&pf_rd_r=FYSKFSCNBAPGVKV376PV&pd_rd_r=dc8a340f-b7fc-424e-91c9-aacbadac9500&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFOMVFDS05TSTFQN1kmZW5jcnlwdGVkSWQ9QTA1OTk4MjkyVzRGUDNIN0dMVEVXJmVuY3J5cHRlZEFkSWQ9QTA5OTk3ODMyS1lCSENYRDBKM1EyJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==', 'countryCode': 'CN', 'language': '', 'key': ''}
+2020-06-03 17:56:02,565 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:56:06,679 INFO log.py[ln:15] 返回正确结果
+2020-06-03 17:56:09,790 INFO log.py[ln:15] 接到任务
+2020-06-03 17:56:09,790 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/dp/B07TBWLS4T/ref=sspa_dk_detail_2?psc=1&pd_rd_i=B07TBWLS4T&pd_rd_w=aAzwf&pf_rd_p=48d372c1-f7e1-4b8b-9d02-4bd86f5158c5&pd_rd_wg=lvbRc&pf_rd_r=FYSKFSCNBAPGVKV376PV&pd_rd_r=dc8a340f-b7fc-424e-91c9-aacbadac9500&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFOMVFDS05TSTFQN1kmZW5jcnlwdGVkSWQ9QTA1OTk4MjkyVzRGUDNIN0dMVEVXJmVuY3J5cHRlZEFkSWQ9QTA5OTk3ODMyS1lCSENYRDBKM1EyJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==', 'countryCode': 'CN', 'language': '', 'key': ''}
+2020-06-03 17:56:09,791 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:56:11,404 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:56:11,905 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:56:17,353 INFO log.py[ln:15] 接到任务
+2020-06-03 17:56:17,354 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/dp/B07TBWLS4T/ref=sspa_dk_detail_2?psc=1&pd_rd_i=B07TBWLS4T&pd_rd_w=aAzwf&pf_rd_p=48d372c1-f7e1-4b8b-9d02-4bd86f5158c5&pd_rd_wg=lvbRc&pf_rd_r=FYSKFSCNBAPGVKV376PV&pd_rd_r=dc8a340f-b7fc-424e-91c9-aacbadac9500&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFOMVFDS05TSTFQN1kmZW5jcnlwdGVkSWQ9QTA1OTk4MjkyVzRGUDNIN0dMVEVXJmVuY3J5cHRlZEFkSWQ9QTA5OTk3ODMyS1lCSENYRDBKM1EyJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==', 'countryCode': 'CN', 'language': '', 'key': ''}
+2020-06-03 17:56:17,354 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:56:20,721 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:56:21,145 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:56:48,097 INFO log.py[ln:15] 接到任务
+2020-06-03 17:56:48,097 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/dp/B07TBWLS4T/ref=sspa_dk_detail_2?psc=1&pd_rd_i=B07TBWLS4T&pd_rd_w=aAzwf&pf_rd_p=48d372c1-f7e1-4b8b-9d02-4bd86f5158c5&pd_rd_wg=lvbRc&pf_rd_r=FYSKFSCNBAPGVKV376PV&pd_rd_r=dc8a340f-b7fc-424e-91c9-aacbadac9500&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFOMVFDS05TSTFQN1kmZW5jcnlwdGVkSWQ9QTA1OTk4MjkyVzRGUDNIN0dMVEVXJmVuY3J5cHRlZEFkSWQ9QTA5OTk3ODMyS1lCSENYRDBKM1EyJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==', 'countryCode': 'CN', 'language': '', 'key': ''}
+2020-06-03 17:56:48,098 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:56:50,151 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:57:14,499 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:57:18,550 INFO log.py[ln:15] 接到任务
+2020-06-03 17:57:18,551 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/dp/B07TBWLS4T/ref=sspa_dk_detail_2?psc=1&pd_rd_i=B07TBWLS4T&pd_rd_w=aAzwf&pf_rd_p=48d372c1-f7e1-4b8b-9d02-4bd86f5158c5&pd_rd_wg=lvbRc&pf_rd_r=FYSKFSCNBAPGVKV376PV&pd_rd_r=dc8a340f-b7fc-424e-91c9-aacbadac9500&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFOMVFDS05TSTFQN1kmZW5jcnlwdGVkSWQ9QTA1OTk4MjkyVzRGUDNIN0dMVEVXJmVuY3J5cHRlZEFkSWQ9QTA5OTk3ODMyS1lCSENYRDBKM1EyJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==', 'countryCode': 'CN', 'language': '', 'key': ''}
+2020-06-03 17:57:18,551 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:57:19,676 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:57:20,131 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:57:49,687 INFO log.py[ln:15] 接到任务
+2020-06-03 17:57:49,687 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/dp/B07TBWLS4T/ref=sspa_dk_detail_2?psc=1&pd_rd_i=B07TBWLS4T&pd_rd_w=aAzwf&pf_rd_p=48d372c1-f7e1-4b8b-9d02-4bd86f5158c5&pd_rd_wg=lvbRc&pf_rd_r=FYSKFSCNBAPGVKV376PV&pd_rd_r=dc8a340f-b7fc-424e-91c9-aacbadac9500&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFOMVFDS05TSTFQN1kmZW5jcnlwdGVkSWQ9QTA1OTk4MjkyVzRGUDNIN0dMVEVXJmVuY3J5cHRlZEFkSWQ9QTA5OTk3ODMyS1lCSENYRDBKM1EyJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==', 'countryCode': 'CN', 'language': '', 'key': ''}
+2020-06-03 17:57:49,687 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:57:50,682 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:57:51,160 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:57:52,872 INFO log.py[ln:15] 返回正确结果
+2020-06-03 17:57:52,977 INFO log.py[ln:15] 请求出错
+2020-06-03 17:57:52,977 INFO log.py[ln:15] 插入数据成功
+2020-06-03 17:59:14,794 INFO log.py[ln:15] 接到任务
+2020-06-03 17:59:14,794 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/dp/B07TBWLS4T/ref=sspa_dk_detail_2?psc=1&pd_rd_i=B07TBWLS4T&pd_rd_w=aAzwf&pf_rd_p=48d372c1-f7e1-4b8b-9d02-4bd86f5158c5&pd_rd_wg=lvbRc&pf_rd_r=FYSKFSCNBAPGVKV376PV&pd_rd_r=dc8a340f-b7fc-424e-91c9-aacbadac9500&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFOMVFDS05TSTFQN1kmZW5jcnlwdGVkSWQ9QTA1OTk4MjkyVzRGUDNIN0dMVEVXJmVuY3J5cHRlZEFkSWQ9QTA5OTk3ODMyS1lCSENYRDBKM1EyJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==', 'countryCode': 'CN', 'language': '', 'key': ''}
+2020-06-03 17:59:14,795 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:59:15,784 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:59:16,244 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:59:22,469 INFO log.py[ln:15] 接到任务
+2020-06-03 17:59:22,469 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/dp/B07TBWLS4T/ref=sspa_dk_detail_2?psc=1&pd_rd_i=B07TBWLS4T&pd_rd_w=aAzwf&pf_rd_p=48d372c1-f7e1-4b8b-9d02-4bd86f5158c5&pd_rd_wg=lvbRc&pf_rd_r=FYSKFSCNBAPGVKV376PV&pd_rd_r=dc8a340f-b7fc-424e-91c9-aacbadac9500&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFOMVFDS05TSTFQN1kmZW5jcnlwdGVkSWQ9QTA1OTk4MjkyVzRGUDNIN0dMVEVXJmVuY3J5cHRlZEFkSWQ9QTA5OTk3ODMyS1lCSENYRDBKM1EyJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==', 'countryCode': 'CN', 'language': '', 'key': ''}
+2020-06-03 17:59:22,469 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:59:23,441 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:59:23,934 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:59:37,903 INFO log.py[ln:15] 接到任务
+2020-06-03 17:59:37,903 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/dp/B07TBWLS4T/ref=sspa_dk_detail_2?psc=1&pd_rd_i=B07TBWLS4T&pd_rd_w=aAzwf&pf_rd_p=48d372c1-f7e1-4b8b-9d02-4bd86f5158c5&pd_rd_wg=lvbRc&pf_rd_r=FYSKFSCNBAPGVKV376PV&pd_rd_r=dc8a340f-b7fc-424e-91c9-aacbadac9500&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFOMVFDS05TSTFQN1kmZW5jcnlwdGVkSWQ9QTA1OTk4MjkyVzRGUDNIN0dMVEVXJmVuY3J5cHRlZEFkSWQ9QTA5OTk3ODMyS1lCSENYRDBKM1EyJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': True}
+2020-06-03 17:59:37,904 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:59:38,285 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:59:46,260 INFO log.py[ln:15] 返回正确结果
+2020-06-03 17:59:46,394 INFO log.py[ln:15] 插入数据成功
+2020-06-03 17:59:52,994 INFO log.py[ln:15] 接到任务
+2020-06-03 17:59:52,995 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/dp/B07TBWLS4T/ref=sspa_dk_detail_2?psc=1&pd_rd_i=B07TBWLS4T&pd_rd_w=aAzwf&pf_rd_p=48d372c1-f7e1-4b8b-9d02-4bd86f5158c5&pd_rd_wg=lvbRc&pf_rd_r=FYSKFSCNBAPGVKV376PV&pd_rd_r=dc8a340f-b7fc-424e-91c9-aacbadac9500&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFOMVFDS05TSTFQN1kmZW5jcnlwdGVkSWQ9QTA1OTk4MjkyVzRGUDNIN0dMVEVXJmVuY3J5cHRlZEFkSWQ9QTA5OTk3ODMyS1lCSENYRDBKM1EyJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': True}
+2020-06-03 17:59:52,995 INFO log.py[ln:15] 开始处理 
+2020-06-03 17:59:53,989 INFO log.py[ln:15] 开始处理 
+2020-06-03 18:00:18,643 INFO log.py[ln:15] 接到任务
+2020-06-03 18:00:18,643 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/dp/B07TBWLS4T/ref=sspa_dk_detail_2?psc=1&pd_rd_i=B07TBWLS4T&pd_rd_w=aAzwf&pf_rd_p=48d372c1-f7e1-4b8b-9d02-4bd86f5158c5&pd_rd_wg=lvbRc&pf_rd_r=FYSKFSCNBAPGVKV376PV&pd_rd_r=dc8a340f-b7fc-424e-91c9-aacbadac9500&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFOMVFDS05TSTFQN1kmZW5jcnlwdGVkSWQ9QTA1OTk4MjkyVzRGUDNIN0dMVEVXJmVuY3J5cHRlZEFkSWQ9QTA5OTk3ODMyS1lCSENYRDBKM1EyJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': True}
+2020-06-03 18:00:18,643 INFO log.py[ln:15] 开始处理 
+2020-06-03 18:00:19,042 INFO log.py[ln:15] 开始处理 
+2020-06-03 18:00:21,240 INFO log.py[ln:15] 开始处理 
+2020-06-03 18:00:21,633 INFO log.py[ln:15] 返回正确结果
+2020-06-03 18:00:21,737 INFO log.py[ln:15] 请求出错
+2020-06-03 18:00:21,738 INFO log.py[ln:15] 插入数据成功
+2020-06-03 18:00:56,409 INFO log.py[ln:15] 接到任务
+2020-06-03 18:00:56,410 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/dp/B07TBWLS4T/ref=sspa_dk_detail_2?psc=1&pd_rd_i=B07TBWLS4T&pd_rd_w=aAzwf&pf_rd_p=48d372c1-f7e1-4b8b-9d02-4bd86f5158c5&pd_rd_wg=lvbRc&pf_rd_r=FYSKFSCNBAPGVKV376PV&pd_rd_r=dc8a340f-b7fc-424e-91c9-aacbadac9500&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFOMVFDS05TSTFQN1kmZW5jcnlwdGVkSWQ9QTA1OTk4MjkyVzRGUDNIN0dMVEVXJmVuY3J5cHRlZEFkSWQ9QTA5OTk3ODMyS1lCSENYRDBKM1EyJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': True}
+2020-06-03 18:00:56,410 INFO log.py[ln:15] 开始处理 
+2020-06-03 18:00:58,662 INFO log.py[ln:15] 开始处理 
+2020-06-03 18:00:59,183 INFO log.py[ln:15] 开始处理 
+2020-06-03 18:01:00,954 INFO log.py[ln:15] 返回正确结果
+2020-06-03 18:01:01,058 INFO log.py[ln:15] 请求出错
+2020-06-03 18:01:01,058 INFO log.py[ln:15] 插入数据成功
+2020-06-03 18:02:56,608 INFO log.py[ln:15] 接到任务
+2020-06-03 18:02:56,608 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/dp/B07TBWLS4T/ref=sspa_dk_detail_2?psc=1&pd_rd_i=B07TBWLS4T&pd_rd_w=aAzwf&pf_rd_p=48d372c1-f7e1-4b8b-9d02-4bd86f5158c5&pd_rd_wg=lvbRc&pf_rd_r=FYSKFSCNBAPGVKV376PV&pd_rd_r=dc8a340f-b7fc-424e-91c9-aacbadac9500&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFOMVFDS05TSTFQN1kmZW5jcnlwdGVkSWQ9QTA1OTk4MjkyVzRGUDNIN0dMVEVXJmVuY3J5cHRlZEFkSWQ9QTA5OTk3ODMyS1lCSENYRDBKM1EyJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 18:02:56,608 INFO log.py[ln:15] 开始处理 
+2020-06-03 18:02:59,695 INFO log.py[ln:15] 开始处理 
+2020-06-03 18:03:38,583 INFO log.py[ln:15] 开始处理 
+2020-06-03 18:03:39,469 INFO log.py[ln:15] 返回正确结果
+2020-06-03 18:03:39,599 INFO log.py[ln:15] 请求出错
+2020-06-03 18:03:39,599 INFO log.py[ln:15] 插入数据成功
+2020-06-03 18:05:43,585 INFO log.py[ln:15] 接到任务
+2020-06-03 18:05:43,585 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/dp/B07TBWLS4T/ref=sspa_dk_detail_2?psc=1&pd_rd_i=B07TBWLS4T&pd_rd_w=aAzwf&pf_rd_p=48d372c1-f7e1-4b8b-9d02-4bd86f5158c5&pd_rd_wg=lvbRc&pf_rd_r=FYSKFSCNBAPGVKV376PV&pd_rd_r=dc8a340f-b7fc-424e-91c9-aacbadac9500&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFOMVFDS05TSTFQN1kmZW5jcnlwdGVkSWQ9QTA1OTk4MjkyVzRGUDNIN0dMVEVXJmVuY3J5cHRlZEFkSWQ9QTA5OTk3ODMyS1lCSENYRDBKM1EyJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 18:05:43,586 INFO log.py[ln:15] 开始处理 
+2020-06-03 18:05:53,462 INFO log.py[ln:15] 接到任务
+2020-06-03 18:05:53,462 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/dp/B07TBWLS4T/ref=sspa_dk_detail_2?psc=1&pd_rd_i=B07TBWLS4T&pd_rd_w=aAzwf&pf_rd_p=48d372c1-f7e1-4b8b-9d02-4bd86f5158c5&pd_rd_wg=lvbRc&pf_rd_r=FYSKFSCNBAPGVKV376PV&pd_rd_r=dc8a340f-b7fc-424e-91c9-aacbadac9500&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFOMVFDS05TSTFQN1kmZW5jcnlwdGVkSWQ9QTA1OTk4MjkyVzRGUDNIN0dMVEVXJmVuY3J5cHRlZEFkSWQ9QTA5OTk3ODMyS1lCSENYRDBKM1EyJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 18:05:53,463 INFO log.py[ln:15] 开始处理 
+2020-06-03 18:05:58,293 INFO log.py[ln:15] 开始处理 
+2020-06-03 18:05:59,394 INFO log.py[ln:15] 开始处理 
+2020-06-03 18:05:59,827 INFO log.py[ln:15] 返回正确结果
+2020-06-03 18:06:14,940 INFO log.py[ln:15] 请求出错
+2020-06-03 18:06:14,941 INFO log.py[ln:15] 插入数据成功
+2020-06-03 18:07:34,519 INFO log.py[ln:15] 接到任务
+2020-06-03 18:07:34,519 INFO log.py[ln:15] {'type': 'amazonDetail', 'url': 'https://www.amazon.com/dp/B07TBWLS4T/ref=sspa_dk_detail_2?psc=1&pd_rd_i=B07TBWLS4T&pd_rd_w=aAzwf&pf_rd_p=48d372c1-f7e1-4b8b-9d02-4bd86f5158c5&pd_rd_wg=lvbRc&pf_rd_r=FYSKFSCNBAPGVKV376PV&pd_rd_r=dc8a340f-b7fc-424e-91c9-aacbadac9500&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFOMVFDS05TSTFQN1kmZW5jcnlwdGVkSWQ9QTA1OTk4MjkyVzRGUDNIN0dMVEVXJmVuY3J5cHRlZEFkSWQ9QTA5OTk3ODMyS1lCSENYRDBKM1EyJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==', 'countryCode': 'CN', 'language': '', 'key': '', 'isproxy': False}
+2020-06-03 18:07:34,520 INFO log.py[ln:15] 开始处理 
+2020-06-03 18:07:49,142 INFO log.py[ln:15] 开始处理 
+2020-06-03 18:07:51,184 INFO log.py[ln:15] 开始处理 
+2020-06-03 18:07:51,594 INFO log.py[ln:15] 返回正确结果
+2020-06-03 18:07:51,722 INFO log.py[ln:15] 请求出错
+2020-06-03 18:07:51,723 INFO log.py[ln:15] 插入数据成功
